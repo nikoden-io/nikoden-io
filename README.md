@@ -11,26 +11,29 @@
 #### So feel strongly to give me any recommandation about my work, advice for future projects, and all comments you want.  
 #### If you are looking to hire a strong hybrid and atypical profile in your team do not hesitate to contact me to check if we can share a project together !  
 
-> Thanks by advance for that :heart:  
+Thanks by advance for that :heart:  
 
 ---
 
-### TECH SKILLS
+> :computer: TECH SKILLS
 * :white_check_mark: HMTL 
 * :white_check_mark: CSS 
 * :white_check_mark: SASS
 * :white_check_mark: BOOTSTRAP
-* :white_check_mark: JAVASCRIPT 
+* :construction: JAVASCRIPT 
 * :construction: PYTHON 
 * :white_check_mark: DJANGO
+* :construction: PYGAME
+* :white_check_mark: GIT
 * :white_check_mark: LINUX MACOS WINDOWS
 
-### SOFT SKILLS
-* :white_check_mark: Team Player / Team Leader
+> :muscle: SOFT SKILLS
+* :white_check_mark: Agile/Scrum Methodology
+* :white_check_mark: Team Player & Team Leader
 * :white_check_mark: Good Empathic Communication 
 * :white_check_mark: Strong Mangement Background
-* :white_check_mark: Organized, structured
-* :white_check_mark: 
+* :white_check_mark: Organized & Structured
+* :white_check_mark: Stress Resistant & Challenge Lover
 
 
 ---
