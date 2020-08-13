@@ -15,6 +15,13 @@ Thanks by advance for that :heart:
 
 ---
 
+> :mailbox_with_mail: Get in touch :
+- LinkedIn: [linkedin.com/in/natterstefan]
+- Twitter: [https://twitter.com/Nicode_IO]
+- Mail: [info@nicode.be]
+
+---
+
 > :computer: TECH SKILLS
 * :white_check_mark: HMTL 
 * :white_check_mark: CSS 
@@ -35,13 +42,13 @@ Thanks by advance for that :heart:
 * :white_check_mark: Organized & Structured
 * :white_check_mark: Stress Resistant & Challenge Lover
 
-
+> :deciduous_tree: WEEK-END SKILLS
+* :sunrise_over_mountains: Travel
+* :camera: Photography & Drone
+* :art: Paint
 ---
 
-## :mailbox_with_mail: Get in touch :
-- LinkedIn: [linkedin.com/in/natterstefan]
-- Twitter: [https://twitter.com/Nicode_IO]
-- Mail: [info@nicode.be]
+
 
 
 
