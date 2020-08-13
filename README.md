@@ -3,7 +3,7 @@
 
 #### Hello 👋, 
 
-#### I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/), welcome to my all new life as developer !
+#### I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/), welcome to my all new life as a developer !
 
 #### After 15 years as manager and sales director it's time for me to make my dreams come true and to become a developer. Autonomous learner, problem solver and commited team member, I'm ready for challenges !
 
