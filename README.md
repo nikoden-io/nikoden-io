@@ -14,9 +14,9 @@ Thanks by advance for that :heart:
 ---
 
 > :mailbox_with_mail: Get in touch :
-- LinkedIn: [linkedin.com/in/natterstefan]
-- Twitter: [https://twitter.com/Nicode_IO]
-- Mail: [info@nicode.be]
+- [LinkedIn](linkedin.com/in/nicolas-denoel)
+- [Twitter](https://twitter.com/Nicode_IO)
+- [Mail](mailto:nicolas.denoel@gmail.com) 
 
 ---
 | :computer: TECH SKILLS                 |  :muscle: SOFT SKILLS                          |  :deciduous_tree: WEEK-END SKILLS |
