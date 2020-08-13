@@ -20,7 +20,7 @@ Thanks by advance for that :heart:
 
 ---
 | :computer: TECH SKILLS                 |  :muscle: SOFT SKILLS                          |  :deciduous_tree: WEEK-END SKILLS |
-|----------------------------------------|:----------------------------------------------:|----------------------------------:|
+|----------------------------------------|------------------------------------------------|-----------------------------------|
 | :white_check_mark: HMTL                | :white_check_mark: Agile/Scrum Methodology     | * :sunrise_over_mountains: Travel |
 | :white_check_mark: CSS                 | :white_check_mark: Team Player & Team Leader   | * :camera: Photography & Drone    |
 | :white_check_mark: SASS                | :white_check_mark: Good Empathic Communication | * :art: Painting                  |
