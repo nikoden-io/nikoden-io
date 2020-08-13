@@ -26,35 +26,10 @@ Thanks by advance for that :heart:
 | :white_check_mark: SASS                | :white_check_mark: Good Empathic Communication | :art: Painting                    |
 | :white_check_mark: BOOTSTRAP           | :white_check_mark: Strong Mangement Background | :joystick: Gaming                 |
 | :construction: JAVASCRIPT              | :white_check_mark: Organized                   |                                   |
-| :construction: PYTHON                  | :white_check_mark: Structured                  |                                   || :white_check_mark: DJANGO              | :white_check_mark: Stress Resistant            |                                   |
-| :construction: PYGAME                  | :white_check_mark: Challenge Lover             |                                   |
+| :construction: PYTHON                  | :white_check_mark: Structured                  |                                   || :construction: PYGAME                  | :white_check_mark: Stress Resistant            |                                   |
+| :white_check_mark: DJANGO              | :white_check_mark: Challenge Lover             |                                   |
 | :white_check_mark: GIT                 |                                                |                                   |
 | :white_check_mark: LINUX MACOS WINDOWS |                                                |                                   |
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
----
 
 
 
