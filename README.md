@@ -14,7 +14,7 @@
 - [PYTHON](https://github.com/Pythonizer-Nicode)
 
 ### Timeline : 
-[:calendar: Discover the great timeline of my adventure to become a developer. Want to write your company name on it ? See collaboration section ;)](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
+[:calendar: Discover the great timeline of my adventure to become a developer. Want to write your company name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
 
 #### So feel strongly to give me any recommandation about my work, advice for future projects, and all comments you want. If you are looking to hire a strong hybrid and atypical profile in your team do not hesitate to contact me to check if we can share a project together !  
 
