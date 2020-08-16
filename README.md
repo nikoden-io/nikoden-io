@@ -1,4 +1,4 @@
-## Welcome to my new house !
+## :loudspeaker: Welcome to my new house !
 > NICODE.IO
 
 #### Hello 👋, 
