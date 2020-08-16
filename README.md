@@ -7,7 +7,7 @@
 
 #### After 15 years as manager and sales director it's time for me to make my dreams come true and to become a developer. Autonomous learner, problem solver and commited team member, I'm ready for challenges !
 
-### Find my learning projects' :
+#### Find my learning projects :
 - [BECODE TeamWork](https://github.com/Becode-TeamWork) 
 - [HTML-CSS-BOOTSTRAP](https://github.com/html-css-nicode)
 - [JAVASCRIPT](https://github.com/Javascripter-Nicode)
