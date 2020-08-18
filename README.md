@@ -38,7 +38,7 @@ Thanks by advance for that :heart:
 | :white_check_mark: JAVASCRIPT             |                                 | :white_check_mark: Organized                   | :joystick: Gaming                 |
 | :construction: PYTHON                     |                                 | :white_check_mark: Structured                  |                                   |
 | :construction: PHP                        |                                 | :white_check_mark: Challenge Lover             |                                   |
-| :construction: DOCKE                      |                                 | :white_check_mark: Stress Resistant            |                                   |
+| :construction: DOCKER                     |                                 | :white_check_mark: Stress Resistant            |                                   |
 | :white_check_mark: GIT                    |                                 |                                                |                                   |
 | :white_check_mark: LINUX MACOS WINDOWS    |                                 |                                                |                                   |
 
