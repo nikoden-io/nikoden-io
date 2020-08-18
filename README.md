@@ -29,18 +29,18 @@ Thanks by advance for that :heart:
 - [Mail](mailto:nicolas.denoel@gmail.com) 
 
 ---
-| :computer: TECH SKILLS                 |  :muscle: SOFT SKILLS                          |  :deciduous_tree: WEEK-END SKILLS |
-|----------------------------------------|------------------------------------------------|-----------------------------------|
-| :white_check_mark: HMTL                | :white_check_mark: Agile/Scrum Methodology     | :sunrise_over_mountains: Travel   |
-| :white_check_mark: CSS                 | :white_check_mark: Team Player & Team Leader   | :camera: Photography              |
-| :white_check_mark: SASS                | :white_check_mark: Good Empathic Communication | :helicopter: Drone                |
-| :white_check_mark: BOOTSTRAP           | :white_check_mark: Strong Mangement Background | :art: Painting                    |
-| :white_check_mark: JAVASCRIPT              | :white_check_mark: Organized                   | :joystick: Gaming                 |
-| :construction: PYTHON                  | :white_check_mark: Structured                  |                                   |
-| :white_check_mark: DJANGO              | :white_check_mark: Challenge Lover             |                                   |
-| :construction: PYGAME                  | :white_check_mark: Stress Resistant            |                                   |
-| :white_check_mark: GIT                 |                                                |                                   |
-| :white_check_mark: LINUX MACOS WINDOWS |                                                |                                   |
+| :computer: TECH SKILLS                    |   |  :muscle: SOFT SKILLS                          |  :deciduous_tree: WEEK-END SKILLS |
+|-------------------------------------------|---|------------------------------------------------|-----------------------------------|
+| :white_check_mark: HMTL                   |   | :white_check_mark: Agile/Scrum Methodology     | :sunrise_over_mountains: Travel   |
+| :white_check_mark: CSS                    |   | :white_check_mark: Team Player & Team Leader   | :camera: Photography              |
+| :white_check_mark: SASS                   |   | :white_check_mark: Good Empathic Communication | :helicopter: Drone                |
+| :white_check_mark: BOOTSTRAP              |   | :white_check_mark: Strong Mangement Background | :art: Painting                    |
+| :white_check_mark: JAVASCRIPT             |   | :white_check_mark: Organized                   | :joystick: Gaming                 |
+| :construction: PYTHON                     |   | :white_check_mark: Structured                  |                                   |
+| :white_check_mark: DJANGO                 |   | :white_check_mark: Challenge Lover             |                                   |
+| :construction: PYGAME                     |   | :white_check_mark: Stress Resistant            |                                   |
+| :white_check_mark: GIT                    |   |                                                |                                   |
+| :white_check_mark: LINUX MACOS WINDOWS    |   |                                                |                                   |
 
 
 
