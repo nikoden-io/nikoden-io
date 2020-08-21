@@ -13,6 +13,7 @@
 - [HTML-CSS-BOOTSTRAP](https://github.com/html-css-nicode)
 - [JAVASCRIPT](https://github.com/Javascripter-Nicode)
 - [PYTHON](https://github.com/Pythonizer-Nicode)
+- [PHP](https://github.com/php-nicode)
 
 ### Timeline : 
 [:calendar: Discover the great timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
@@ -26,19 +27,19 @@ Thanks by advance for that :heart:
 > :mailbox_with_mail: Get in touch :
 - [LinkedIn](linkedin.com/in/nicolas-denoel)
 - [Twitter](https://twitter.com/Nicode_IO)
-- [Mail](mailto:nicolas.denoel@gmail.com) 
+- [Mail](mailto:info@nicode.io) 
 
 ---
 | :iphone::computer: TECH SKILLS            | :iphone::computer: TECH SKILLS  |  :muscle: SOFT SKILLS                          |  :deciduous_tree: WEEK-END SKILLS |
 |-------------------------------------------|---------------------------------|------------------------------------------------|-----------------------------------|
 | :white_check_mark: HMTL                   |  :construction: FLUTTER         | :white_check_mark: Agile/Scrum Methodology     | :sunrise_over_mountains: Travel   |
-| :white_check_mark: CSS                    |  :construction: PYGAME          | :white_check_mark: Team Player & Team Leader   | :camera: Photography              |
-| :white_check_mark: SASS                   |  :construction: REACT           | :white_check_mark: Good Empathic Communication | :helicopter: Drone                |
+| :white_check_mark: CSS                    |  :construction: REACT           | :white_check_mark: Team Player & Team Leader   | :camera: Photography              |
+| :white_check_mark: SASS                   |  :construction: PYGAME          | :white_check_mark: Good Empathic Communication | :helicopter: Drone                |
 | :white_check_mark: BOOTSTRAP              |  :white_check_mark: DJANGO      | :white_check_mark: Strong Mangement Background | :art: Painting                    |
-| :white_check_mark: JAVASCRIPT             |                                 | :white_check_mark: Organized                   | :joystick: Gaming                 |
-| :construction: PYTHON                     |                                 | :white_check_mark: Structured                  |                                   |
-| :construction: PHP                        |                                 | :white_check_mark: Challenge Lover             |                                   |
-| :construction: DOCKER                     |                                 | :white_check_mark: Stress Resistant            |                                   |
+| :white_check_mark: JAVASCRIPT             |  :white_check_mark: DOCKER      | :white_check_mark: Organized                   | :joystick: Gaming                 |
+| :white_check_mark: PYTHON                 |                                 | :white_check_mark: Structured                  |                                   |
+| :white_chek_mark: PHP                     |                                 | :white_check_mark: Challenge Lover             |                                   |
+| :white_check_mark: SQL                    |                                 | :white_check_mark: Stress Resistant            |                                   |
 | :white_check_mark: GIT                    |                                 |                                                |                                   |
 | :white_check_mark: LINUX MACOS WINDOWS    |                                 |                                                |                                   |
 
