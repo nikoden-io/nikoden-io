@@ -38,7 +38,7 @@ Thanks by advance for that :heart:
 | :white_check_mark: BOOTSTRAP              |  :white_check_mark: DJANGO      | :white_check_mark: Strong Mangement Background | :art: Painting                    |
 | :white_check_mark: JAVASCRIPT             |  :white_check_mark: DOCKER      | :white_check_mark: Organized                   | :joystick: Gaming                 |
 | :white_check_mark: PYTHON                 |                                 | :white_check_mark: Structured                  |                                   |
-| :white_chek_mark: PHP                     |                                 | :white_check_mark: Challenge Lover             |                                   |
+| :white_check_mark: PHP                    |                                 | :white_check_mark: Challenge Lover             |                                   |
 | :white_check_mark: SQL                    |                                 | :white_check_mark: Stress Resistant            |                                   |
 | :white_check_mark: GIT                    |                                 |                                                |                                   |
 | :white_check_mark: LINUX MACOS WINDOWS    |                                 |                                                |                                   |
