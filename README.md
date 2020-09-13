@@ -40,7 +40,7 @@ Thanks by advance for that :heart:
 | :white_check_mark: PYTHON                 | :construction: FLUTTER          | :white_check_mark: Structured                  |                                   |
 | :white_check_mark: PHP                    | :construction: REACT            | :white_check_mark: Challenge Lover             |                                   |
 | :white_check_mark: SQL-MARIADB-POSTGRESQL |                                 | :white_check_mark: Organized                   |                                   |
-| :white_check_mark: GIT-GITHUB-GITKRAKEN   |                                 | :white_check_mark: Agile-Waterfall Methodology |                                   |
+| :white_check_mark: GIT-GITFLOW-GITKRAKEN  |                                 | :white_check_mark: Agile-Waterfall Methodology |                                   |
 | :white_check_mark: LINUX MACOS WINDOWS    |                                 |                                                |                                   |
 
 
