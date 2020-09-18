@@ -18,7 +18,7 @@
 | :iphone::computer: TECH SKILLS            | :iphone::computer: TECH SKILLS  |  :muscle: SOFT SKILLS                          |  :deciduous_tree: WEEK-END SKILLS |
 |-------------------------------------------|---------------------------------|------------------------------------------------|-----------------------------------|
 | :white_check_mark: HMTL                   | :white_check_mark: WORDPRESS    | :white_check_mark: Team Player & Team Leader   | :sunrise_over_mountains: Travel   |
-| :white_check_mark: CSS                    | :white_check_mark: DJANGO       | :white_check_mark: Positive Communication.     | :camera: Photography              |
+| :white_check_mark: CSS                    | :white_check_mark: DJANGO       | :white_check_mark: Positive Communication      | :camera: Photography              |
 | :white_check_mark: SASS                   |  :construction: REACT           | :white_check_mark: Strong Management Skill     | :helicopter: Drone                |
 | :white_check_mark: BOOTSTRAP              | :white_check_mark: VPS-UBUNTU SERVER| :white_check_mark: Gamification Fan        | :art: Painting                    |
 | :white_check_mark: JAVASCRIPT             | :white_check_mark: DOCKER       | :white_check_mark: Stress Resistant            | :joystick: Gaming                 |
