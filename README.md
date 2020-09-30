@@ -20,7 +20,7 @@
 | :white_check_mark: PYTHON                 | :white_check_mark: DJANGO       | :white_check_mark: Team Player & Team Leader   | :sunrise_over_mountains: Travel   |
 | :white_check_mark: JAVASCRIPT             | :construction: FLUTTER          | :white_check_mark: Positive Communication      | :camera: Photography              |
 | :white_check_mark: NODE.JS                | :construction: EXPRESS          | :white_check_mark: Strong Management Skill     | :helicopter: Drone                |
-| :white_check_mark: REACT                  | :white_check_mark: VPS-UBUNTU SERVER| :white_check_mark: Gamification Fan        | :art: Painting                    |
+| :white_check_mark: REACT                  | :white_check_mark: VPS-UBUNTU SERVER| :white_check_mark: Gamification Addict     | :art: Painting                    |
 | :white_check_mark: PHP                    |                                 | :white_check_mark: Stress Resistant            | :joystick: Gaming                 |
 | :white_check_mark: HTML CSS SASS          |                                 | :white_check_mark: Structured                  |                                   |
 | :white_check_mark: (MY)SQL MARIADB POSTGRE|                                 | :white_check_mark: Challenge Lover             |                                   |
