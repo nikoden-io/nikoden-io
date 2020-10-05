@@ -5,7 +5,9 @@
 
 #### I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/), welcome to my all new life as a developer !
 
-#### After 15 years as manager and sales director it's time for me to make my dreams come true and to become a developer. Autonomous learner, problem solver and commited team member, I'm ready for challenges !
+#### After 15 years as manager and sales director it's time for me to make my dreams come true and to become a developer. Autonomous learner, problem solver and commited team member.
+#### I'm currently doing a bootcamp at Becode in order to be a junior web developer ready to take up new challenges.
+#### My profile is atypical. Balanced between the logic and structure of the developer and the knowledge of the market and commercial expectations.
 
 ---
 
