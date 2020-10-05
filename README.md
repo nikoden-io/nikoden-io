@@ -36,6 +36,15 @@
 - [PYTHON](https://github.com/Pythonizer-Nicode)
 - [PHP](https://github.com/php-nicode)
 
+### **BeCode** Intensive Bootcamp
+
+In ten months, you have a wonderful opportunity to become a great Junior App & Web Developer. 
+We are motivated by inclusion and the spirit of sharing!   
+The bootcamp aims at acquiring self-learning skills and mastering a junior web developer path, both frontend and backend. 
+Support is provided by a team of great coaches who will guide you and help you overcome the various peaks of difficulty encountered.
+
+Give maximum to get maximum :rocket:
+
 ### Timeline : 
 [:calendar: Discover the great timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
 
