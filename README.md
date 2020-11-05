@@ -18,19 +18,26 @@
 - [Mail](mailto:info@nicode.io) 
 
 ---
-| :iphone::computer: TECH SKILLS                          | :iphone::computer: TECH SKILLS  |  :muscle: SOFT SKILLS                          |  :deciduous_tree: WEEK-END SKILLS |
-|---------------------------------------------------------|---------------------------------|------------------------------------------------|-----------------------------------|
-| :1st_place_medal: :chart_with_upwards_trend: JAVASCRIPT |:construction: WORDPRESS         | :white_check_mark: Team Player & Team Leader  | :sunrise_over_mountains: Travel |
-| :2nd_place_medal: PYTHON                                |:white_check_mark: DJANGO        | :white_check_mark: Positive Communication      | :camera: Photography              |
-| :3rd_place_medal: REACT                                 |:construction: FLUTTER           | :white_check_mark: Strong Management Skill     | :helicopter: Drone                |
-| :white_check_mark: DART                                 |:construction: EXPRESS           | :white_check_mark: Gamification Addict         | :art: Painting                    |
-| :white_check_mark: PHP                                  |:white_check_mark: VPS-UBUNTU SERVER| :white_check_mark: Stress Resistant         | :joystick: Gaming                 |
-
-|:iphone::computer: TECH SKILLS                           |---------------------------------| :white_check_mark: Structured                  |                                   |
-| :white_check_mark: MYSQL MARIADB POSTGRE MONGODB  |                         | :white_check_mark: Challenge Lover             |                                   |
-| :white_check_mark: GIT GITFLOW GITKRAKEN  |                                 | :white_check_mark: Organized                   |                                   |
-| :white_check_mark: LINUX MACOS WINDOWS    |                                 | :white_check_mark: Agile/Scrum - Waterfall     |                                   |
-|        :white_check_mark: HTML CSS SASS                                     |                                                |                                                |                                   |
+| :iphone::computer: LANGUAGES                            | :iphone::computer: FRAMEWORKS / DEVKIT   |  :muscle: SOFT SKILLS                          |  :deciduous_tree: WEEK-END SKILLS |
+|---------------------------------------------------------|------------------------------------------|------------------------------------------------|-----------------------------------|
+| :1st_place_medal: :chart_with_upwards_trend: JAVASCRIPT |:1st_place_medal: DJANGO                  | :1st_place_medal: Positive Communication       | :sunrise_over_mountains: Travel   |
+| :2nd_place_medal: PYTHON                                |:2nd_place_medal: REACT                   | :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
+| :3rd_place_medal: REACT                                 |:3rd_place_medal: BOOTSTRAP               | :3rd_place_medal: Organized & structured       | :helicopter: Drone                |
+| :white_check_mark: DART                                 |:white_check_mark: FLUTTER                | :white_check_mark: Gamification Addict         | :art: Painting                    |
+| :white_check_mark: PHP                                  |                                          | :white_check_mark: Challenge Lover             | :joystick: Gaming                 |
+|                                                         |                                          | :white_check_mark: Agile/Scrum - Waterfall     |                                   |
+|                                                         |                                          | :white_check_mark: Stress Resistant            |                                   |
+    
+| :iphone::computer: TECH SKILLS                          |
+|---------------------------------------------------------|
+| :white_check_mark: HTML 5                               |
+| :white_check_mark: CSS 3                                |
+| :white_check_mark: SASS                                 |
+| :white_check_mark: GIT GITFLOW GITKRAKEN                |
+| :white_check_mark: LINUX MACOS WINDOWS                  |
+| :white_check_mark: MYSQL MARIADB POSTGRE MONGODB        |
+| :white_check_mark: VPS-UBUNTU SERVER                    |
+| :white_check_mark: WORDPRESS                            |
 
 #### Find my learning projects :
 
