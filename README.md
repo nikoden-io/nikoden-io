@@ -18,15 +18,15 @@
 - [Mail](mailto:info@nicode.io) 
 
 ---
-| :iphone::computer: LANGUAGES                            | :iphone::computer: FRAMEWORKS / DEVKIT   |  :muscle: SOFT SKILLS                          |  :deciduous_tree: WEEK-END SKILLS |
-|---------------------------------------------------------|------------------------------------------|------------------------------------------------|-----------------------------------|
-| :1st_place_medal: :chart_with_upwards_trend: JAVASCRIPT |:1st_place_medal: DJANGO                  | :1st_place_medal: Positive Communication       | :sunrise_over_mountains: Travel   |
-| :2nd_place_medal: PYTHON                                |:2nd_place_medal: REACT                   | :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
-| :3rd_place_medal: REACT                                 |:3rd_place_medal: BOOTSTRAP               | :3rd_place_medal: Organized & structured       | :helicopter: Drone                |
-| :white_check_mark: DART                                 |:white_check_mark: FLUTTER                | :white_check_mark: Gamification Addict         | :art: Painting                    |
-| :white_check_mark: PHP                                  |                                          | :white_check_mark: Challenge Lover             | :joystick: Gaming                 |
-|                                                         |                                          | :white_check_mark: Agile/Scrum - Waterfall     |                                   |
-|                                                         |                                          | :white_check_mark: Stress Resistant            |                                   |
+| :iphone::computer: LANGUAGES                            || :iphone::computer: FRAMEWORKS / DEVKIT   ||  :muscle: SOFT SKILLS                          |  :deciduous_tree: WEEK-END SKILLS |
+|---------------------------------------------------------||------------------------------------------||------------------------------------------------|-----------------------------------|
+| :1st_place_medal: :chart_with_upwards_trend: JAVASCRIPT ||:1st_place_medal: DJANGO                  || :1st_place_medal: Positive Communication       | :sunrise_over_mountains: Travel   |
+| :2nd_place_medal: PYTHON                                ||:2nd_place_medal: REACT                   || :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
+| :3rd_place_medal: DART                                  ||:3rd_place_medal: BOOTSTRAP               || :3rd_place_medal: Organized & structured       | :helicopter: Drone                |
+| :white_check_mark: PHP                                  ||:white_check_mark: FLUTTER                || :white_check_mark: Gamification Addict         | :art: Painting                    |
+                                                                                                     | | :white_check_mark: Challenge Lover             | :joystick: Gaming                 |
+                                                                                                     | | :white_check_mark: Agile/Scrum - Waterfall     |                                   |
+                                                                                                     | | :white_check_mark: Stress Resistant            |                                   |
     
 | :iphone::computer: TECH SKILLS                          |
 |---------------------------------------------------------|
