@@ -40,6 +40,8 @@
 | :white_check_mark: VPS-UBUNTU SERVER                    |
 | :white_check_mark: WORDPRESS                            |
 
+---
+
 #### Find my learning projects :
 
 - [JAVASCRIPT](https://github.com/Javascripter-Nicode)
@@ -52,7 +54,16 @@
 - [BECODE TeamWork](https://github.com/Becode-TeamWork) 
 - [HTML-CSS-BOOTSTRAP](https://github.com/html-css-nicode)
 
-### **BeCode** Intensive Bootcamp - June-December 2020
+---
+
+### Developer Main Steps
+
+#### STEP 1 - Self-study - November 2019 - May 2020
+
+My new journey began with a self-taught approach to mastering the essential basics of language and algorithmic learning.
+Due to Covid, this period was extended by six months, which allowed me to be even better prepared for my Becode bootcamp.
+
+#### STEP 2 - **BeCode** Intensive Bootcamp - June-December 2020 - Grade: Junior Developer
 
 In ten months, you have a wonderful opportunity to become a great Junior App & Web Developer. 
 We are motivated by inclusion and the spirit of sharing!   
@@ -61,10 +72,18 @@ Support is provided by a team of great coaches who will guide you and help you o
 
 Give maximum to get maximum :rocket:
 
+You can find a summary of all the learning path and projects links [HERE](https://github.com/nicode-io/Becode-Learning)
+
+#### STEP - 3-months Internship - December 2020-March 2021 
+
+To be continued ... 
+
+---
+
 ### Timeline : 
 [:calendar: Discover the great timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
 
-#### So feel strongly to give me any recommandation about my work, advice for future projects, and all comments you want. If you are looking to hire a strong hybrid and atypical profile in your team do not hesitate to contact me to check if we can share a project together !  
+#### So feel strongly to give me any advices about my work, advice for future projects, and all comments you want. If you are looking to hire a strong hybrid and atypical profile in your team do not hesitate to contact me to check if we can share a project together !  
 
 Thanks by advance for that :heart:  
 
