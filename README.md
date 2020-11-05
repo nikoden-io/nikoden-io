@@ -17,8 +17,9 @@
 - [Twitter](https://twitter.com/Nicode_IO)
 - [Mail](mailto:info@nicode.io) 
 
----
-| :iphone::computer: LANGUAGES                            | :iphone::computer: FRAMEWORKS / DEVKIT   |  :muscle: SOFT SKILLS                          |  :deciduous_tree: WEEK-END SKILLS |
+--- 
+
+| :iphone::computer: LANGUAGES                            |  :package: FRAMEWORKS / DEVKIT           |  :right_fist::left_fist SOFT SKILLS            |  :deciduous_tree: WEEK-END SKILLS |
 |---------------------------------------------------------|------------------------------------------|------------------------------------------------|-----------------------------------|
 | :1st_place_medal: :chart_with_upwards_trend: JAVASCRIPT |:1st_place_medal: DJANGO                  | :1st_place_medal: Positive Communication       | :sunrise_over_mountains: Travel   |
 | :2nd_place_medal: PYTHON                                |:2nd_place_medal: REACT                   | :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
@@ -28,7 +29,7 @@
 |                                                         |                                          | :white_check_mark: Agile/Scrum - Waterfall     |                                   |
 |                                                         |                                          | :white_check_mark: Stress Resistant            |                                   |
     
-| :iphone::computer: TECH SKILLS                          |
+| :man_technologist: TECH SKILLS                          |
 |---------------------------------------------------------|
 | :white_check_mark: HTML 5                               |
 | :white_check_mark: CSS 3                                |
@@ -41,8 +42,8 @@
 
 #### Find my learning projects :
 
-- [PYTHON](https://github.com/Pythonizer-Nicode)
 - [JAVASCRIPT](https://github.com/Javascripter-Nicode)
+- [PYTHON](https://github.com/Pythonizer-Nicode)
 - [PHP](https://github.com/php-nicode)
 - [WORDPRESS](https://github.com/Wordpress-Nicode)
 - [MERN Stack (REACT)](https://github.com/MERN-Nicode)
