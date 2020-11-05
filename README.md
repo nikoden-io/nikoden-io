@@ -19,7 +19,7 @@
 
 --- 
 
-| :iphone::computer: LANGUAGES                            |  :package: FRAMEWORKS / DEVKIT           |  :right_fist: :left_fist: SOFT SKILLS          |  :deciduous_tree: WEEK-END SKILLS |
+| :iphone::computer: LANGUAGES                            |  :package: FRAMEWORKS / DEVKIT           |  :right_facing_fist: :left_facing_fist: SOFT SKILLS          |  :deciduous_tree: WEEK-END SKILLS |
 |---------------------------------------------------------|------------------------------------------|------------------------------------------------|-----------------------------------|
 | :1st_place_medal: :chart_with_upwards_trend: JAVASCRIPT |:1st_place_medal: DJANGO                  | :1st_place_medal: Positive Communication       | :sunrise_over_mountains: Travel   |
 | :2nd_place_medal: PYTHON                                |:2nd_place_medal: REACT                   | :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
