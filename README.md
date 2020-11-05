@@ -20,7 +20,7 @@
 
 --- 
 
-| :iphone::computer: LANGUAGES                            |  :package: FRAMEWORKS / DEVKIT           |  :sparkles: SOFT SKILLS                        |  :deciduous_tree: WEEK-END SKILLS |
+| :iphone::computer: LANGUAGES                            |  :package: FRAMEWORKS / DEV-ENV           |  :sparkles: SOFT SKILLS                        |  :deciduous_tree: WEEK-END SKILLS |
 |---------------------------------------------------------|------------------------------------------|------------------------------------------------|-----------------------------------|
 | :1st_place_medal: :chart_with_upwards_trend: JAVASCRIPT |:1st_place_medal: DJANGO                  | :1st_place_medal: Positive Communication       | :sunrise_over_mountains: Travel   |
 | :2nd_place_medal: PYTHON                                |:2nd_place_medal: REACT                   | :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
@@ -40,20 +40,6 @@
 | :white_check_mark: MYSQL MARIADB POSTGRE MONGODB        |
 | :white_check_mark: VPS-UBUNTU SERVER                    |
 | :white_check_mark: WORDPRESS                            |
-
----
-
-#### Find my learning projects :
-
-- [JAVASCRIPT](https://github.com/Javascripter-Nicode)
-- [PYTHON](https://github.com/Pythonizer-Nicode)
-- [PHP](https://github.com/php-nicode)
-- [WORDPRESS](https://github.com/Wordpress-Nicode)
-- [MERN Stack (REACT)](https://github.com/MERN-Nicode)
-- [FLUTTER](https://github.com/Flutter-Nicode)
-- [BECODE Bootcamp](https://github.com/nicode-io/Becode-Learning)
-- [BECODE TeamWork](https://github.com/Becode-TeamWork) 
-- [HTML-CSS-BOOTSTRAP](https://github.com/html-css-nicode)
 
 ---
 
