@@ -22,12 +22,12 @@
 
 | :iphone::computer: LANGUAGES                            |  :package: FRAMEWORKS / DEV-ENV           |  :sparkles: SOFT SKILLS                        |  :deciduous_tree: WEEK-END SKILLS |
 |---------------------------------------------------------|------------------------------------------|------------------------------------------------|-----------------------------------|
-| :1st_place_medal: JAVASCRIPT :chart_with_upwards_trend: |:1st_place_medal: DJANGO                  | :1st_place_medal: Positive Communication       | :sunrise_over_mountains: Travel   |
-| :2nd_place_medal: PYTHON                                |:2nd_place_medal: REACT                   | :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
-| :3rd_place_medal: DART                                  |:3rd_place_medal: BOOTSTRAP               | :3rd_place_medal: Organized & structured       | :helicopter: Drone                |
-| :white_check_mark: PHP                                  |:white_check_mark: NODE.JS                | :white_check_mark: Gamification Addict         | :art: Painting                    |
-|                                                         |:white_check_mark: FLUTTER                | :white_check_mark: Challenge Lover             | :joystick: Gaming                 |
-|                                                         |                                          | :white_check_mark: Agile/Scrum - Waterfall     |                                   |
+| :1st_place_medal: JAVASCRIPT  |:1st_place_medal: DJANGO                  | :1st_place_medal: Positive Communication       | :sunrise_over_mountains: Travel   |
+| :2nd_place_medal: PYTHON                                |:2nd_place_medal: WORDPRESS :chart_with_upwards_trend: | :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
+| :3rd_place_medal: PHP :chart_with_upwards_trend: |:3rd_place_medal: REACT                   | :3rd_place_medal: Organized & structured       | :helicopter: Drone                |
+| :white_check_mark: DART                                 |:white_check_mark: BOOTSTRAP              | :white_check_mark: Gamification Addict         | :art: Painting                    |
+|                                                         |:white_check_mark: NODE.JS                | :white_check_mark: Challenge Lover             | :joystick: Gaming                 |
+|                                                         | :white_check_mark: FLUTTER               | :white_check_mark: Agile/Scrum - Waterfall     |                                   |
 |                                                         |                                          | :white_check_mark: Stress Resistant            |                                   |
     
 | :man_technologist: TECH SKILLS                          |
