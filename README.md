@@ -16,7 +16,7 @@
 > :mailbox_with_mail: Get in touch :
 - [LinkedIn](linkedin.com/in/nicolas-denoel)
 - [Twitter](https://twitter.com/Nicode_IO)
-- [Mail](mailto:info@nicode.io) 
+- [Mail](mailto:nicolas@nicode.io) 
 
 --- 
 
