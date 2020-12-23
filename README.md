@@ -61,9 +61,9 @@ Give maximum to get maximum :rocket:
 
 You can find a summary of all the learning path and projects links [HERE](https://github.com/nicode-io/Becode-Learning)
 
-#### STEP - 3-months Internship - December 2020-March 2021 
+#### STEP - 3-months Internship - Januray 2021 - April 2021 
 
-To be continued ... 
+To be continued ... [@ØPP](http://opp.mx) !
 
 ---
 
