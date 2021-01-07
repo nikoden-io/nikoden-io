@@ -63,7 +63,8 @@ You can find a summary of all the learning path and projects links [HERE](https:
 
 ### STEP - 3-months Internship - Januray 2021 - April 2021 
 
-To be continued ... [@ØPP](http://opp.mx) !
+[@ØPP](http://opp.mx) is a publisher of digital solutions (websites, applications, connected objects...) specialised in engagement techniques and gaming.  
+I'm lucky that my first professional experience as a developer takes place in this framework which suits me so well.  !
 
 ---
 
