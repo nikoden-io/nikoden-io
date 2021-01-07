@@ -26,7 +26,7 @@
 | :2nd_place_medal: PYTHON                                |:2nd_place_medal: DJANGO  | :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
 | :3rd_place_medal: PHP |:3rd_place_medal: WORDPRESS | :3rd_place_medal: Organized & structured       | :helicopter: Drone                |
 | :white_check_mark: DART                                 |:white_check_mark: BOOTSTRAP              | :white_check_mark: Gamification Addict         | :art: Painting                    |
-|                                                         |:white_check_mark: NODE.JS                | :white_check_mark: Challenge Lover             | :joystick: Gaming                 |
+|                                                         |:white_check_mark: NODE.JS / EXPRESS / SEQUELIZE | :white_check_mark: Challenge Lover             | :joystick: Gaming                 |
 |                                                         | :white_check_mark: FLUTTER               | :white_check_mark: Agile/Scrum - Waterfall     |                                   |
 |                                                         |                                          | :white_check_mark: Stress Resistant            |                                   |
     
