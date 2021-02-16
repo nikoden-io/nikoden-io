@@ -61,7 +61,7 @@ The bootcamp aims at acquiring self-learning skills and mastering a junior web d
 Support is provided by a team of great coaches who will guide you and help you overcome the various peaks of difficulty encountered.
 [Summary of all the learning path and projects links](https://github.com/nicode-io/Becode-Learning)
 
-## **STEP 3 - Internship**
+## **STEP 3 - Internship ØPP Agency**
 > Januari 2021 - Februari 2021
 
 [@ØPP](http://opp.mx) is a publisher of digital solutions (websites, applications, connected objects...) specialised in engagement techniques and gaming.  
