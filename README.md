@@ -8,8 +8,9 @@
 #### I'm currently finishing an intensive 7 month bootcamp at Becode where I was able to acquire the superpowers of a junior developer, I am now constantly exploring the challenges that the various companies and associations active in the field can offer me.      
 #### Positive spirit, with an unquenchable thirst for learning, committed and structured, I like to take up challenges and always progress by giving the best of myself.    
 #### If you have a project, no matter how big or small, don't hesitate to share it, we always have to win by doing things alongside others.     
+#### If you are looking to hire a strong hybrid and atypical profile in your team do not hesitate to contact me to check if we can share a project together !  
 
-#### See you soon!  
+#### See you soon!   :heart:  
 
 ---
 
@@ -77,10 +78,6 @@ Given the psychological impact that this period of Covid represents, I am also l
 
 ### Timeline : 
 [:calendar: Discover the great timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
-
-#### So feel strongly to give me any advices about my work, advice for future projects, and all comments you want. If you are looking to hire a strong hybrid and atypical profile in your team do not hesitate to contact me to check if we can share a project together !  
-
-Thanks by advance for that :heart:  
 
 
  
