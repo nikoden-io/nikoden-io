@@ -61,7 +61,7 @@ Support is provided by a team of great coaches who will guide you and help you o
 You can find a summary of all the learning path and projects links [HERE](https://github.com/nicode-io/Becode-Learning)
 
 ## **STEP 3 - Internship**
-> Start 2021
+> Januari 2021 - Februari 2021
 
 [@ØPP](http://opp.mx) is a publisher of digital solutions (websites, applications, connected objects...) specialised in engagement techniques and gaming.  
 I'm lucky that my first professional experience as a developer takes place in this framework which suits me so well.  !
