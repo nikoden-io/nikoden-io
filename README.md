@@ -58,7 +58,7 @@ In ten months, you have a wonderful opportunity to become a great Junior App & W
 We are motivated by inclusion and the spirit of sharing!   
 The bootcamp aims at acquiring self-learning skills and mastering a junior web developer path, both frontend and backend. 
 Support is provided by a team of great coaches who will guide you and help you overcome the various peaks of difficulty encountered.
-You can find a summary of all the learning path and projects links [HERE](https://github.com/nicode-io/Becode-Learning)
+[Summary of all the learning path and projects links](https://github.com/nicode-io/Becode-Learning)
 
 ## **STEP 3 - Internship**
 > Januari 2021 - Februari 2021
