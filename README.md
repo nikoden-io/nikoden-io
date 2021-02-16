@@ -44,32 +44,25 @@
 
 ### Developer Main Steps
 
-### STEP 1 - Self-study - November 2019 - May 2020
 
+## STEP 1 - Self-study - November 2019 - May 2020
 My new journey began with a self-taught approach to mastering the essential basics of language and algorithmic learning.
 Due to Covid, this period was extended by six months, which allowed me to be even better prepared for my Becode bootcamp.
 
-### STEP 2 - **BeCode** Intensive Bootcamp - June-December 2020 - Grade: Junior Developer
-
+## STEP 2 - **BeCode** Intensive Bootcamp - June-December 2020 - Grade: Junior Developer
 In ten months, you have a wonderful opportunity to become a great Junior App & Web Developer. 
 We are motivated by inclusion and the spirit of sharing!   
 The bootcamp aims at acquiring self-learning skills and mastering a junior web developer path, both frontend and backend. 
 Support is provided by a team of great coaches who will guide you and help you overcome the various peaks of difficulty encountered.
-
-Give maximum to get maximum :rocket:
-
 You can find a summary of all the learning path and projects links [HERE](https://github.com/nicode-io/Becode-Learning)
 
-### STEP 3 - Internship 
-
+## STEP 3 - Internship - Start 2021
 [@ØPP](http://opp.mx) is a publisher of digital solutions (websites, applications, connected objects...) specialised in engagement techniques and gaming.  
 I'm lucky that my first professional experience as a developer takes place in this framework which suits me so well.  !
 
-### STEP 4 - Autonomous and continuous study
-
+## STEP 4 - Autonomous and continuous study - February 2021 - ...
 While waiting to be able to join a team with whom I could share a new career.
 I work every day to complete my knowledge through courses, small website projects and mobile applications. 
-
 Given the psychological impact that this period of Covid represents, I am also looking for local structures whose vocation is to help people in order to share volunteer projects with them. 
 
 ---
