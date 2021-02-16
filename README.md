@@ -24,10 +24,10 @@
 |---------------------------------------------------------|------------------------------------------|------------------------------------------------|-----------------------------------|
 | :1st_place_medal: JAVASCRIPT :chart_with_upwards_trend: |:1st_place_medal: REACT & REACT NATIVE :chart_with_upwards_trend:| :1st_place_medal: Positive Communication       | :sunrise_over_mountains: Travel   |
 | :2nd_place_medal: PYTHON                                |:2nd_place_medal: DJANGO  | :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
-| :3rd_place_medal: PHP |:3rd_place_medal: WORDPRESS | :3rd_place_medal: Organized & structured       | :helicopter: Drone                |
+| :3rd_place_medal: PHP |:3rd_place_medal: WORDPRESS | :3rd_place_medal: Adapting to change      | :helicopter: Drone                |
 | :white_check_mark: DART                                 |  :white_check_mark: NODE.JS :chart_with_upwards_trend:          | :white_check_mark: Gamification Addict         | :art: Painting                    |
 |                                                         |:white_check_mark: BOOTSTRAP   | :white_check_mark: Challenge Lover             | :joystick: Gaming                 |
-|                                                         | :white_check_mark: FLUTTER               | :white_check_mark: Ability to Reinvent Oneself |    :open_hands: Volunteering    | |
+|                                                         | :white_check_mark: FLUTTER               | :white_check_mark: Organized and Structured |    :open_hands: Volunteering    | |
 
 | :man_technologist: BASIC SKILLS                          |
 |---------------------------------------------------------|
