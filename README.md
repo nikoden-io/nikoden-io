@@ -1,7 +1,7 @@
 ## :loudspeaker: Welcome !
 > NICODE.IO
 
-#### Hello, welcome to my all new life as a developer ! 👋 
+#### Hello 👋 , welcome to my all new life as a developer ! 
 
 #### I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/), a computer science enthusiast who is in the middle of his reconversion as a developer.     
 #### After 15 years in the commercial sector as a manager and director, I decided to put this career on hold to devote myself fully to development.  
