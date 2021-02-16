@@ -29,7 +29,7 @@
 |                                                         |:white_check_mark: BOOTSTRAP   | :white_check_mark: Challenge Lover             | :joystick: Gaming                 |
 |                                                         | :white_check_mark: FLUTTER               | :white_check_mark: Agile/Scrum - Waterfall     |    :open_hands: Volunteering    | |
 
-| :man_technologist: TECH SKILLS                          |
+| :man_technologist: BASIC SKILLS                          |
 |---------------------------------------------------------|
 | :white_check_mark: HTML 5                               |
 | :white_check_mark: CSS 3                                |
