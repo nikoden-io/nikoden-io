@@ -27,7 +27,7 @@
 | :3rd_place_medal: PHP |:3rd_place_medal: WORDPRESS | :3rd_place_medal: Organized & structured       | :helicopter: Drone                |
 | :white_check_mark: DART                                 |  :white_check_mark: NODE.JS :chart_with_upwards_trend:          | :white_check_mark: Gamification Addict         | :art: Painting                    |
 |                                                         |:white_check_mark: BOOTSTRAP   | :white_check_mark: Challenge Lover             | :joystick: Gaming                 |
-|                                                         | :white_check_mark: FLUTTER               | :white_check_mark: Agile/Scrum - Waterfall     |   Volunteering :open_hands:     | |||||
+|                                                         | :white_check_mark: FLUTTER               | :white_check_mark: Agile/Scrum - Waterfall     |    :open_hands: Volunteering    | |
 
 | :man_technologist: TECH SKILLS                          |
 |---------------------------------------------------------|
