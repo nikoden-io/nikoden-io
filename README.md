@@ -42,7 +42,7 @@
 
 ---
 
-### Developer Main Steps
+## Main steps of my reconversion
 
 
 ## STEP 1 - Self-study - November 2019 - May 2020
