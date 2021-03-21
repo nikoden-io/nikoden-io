@@ -47,7 +47,7 @@
 ## __Main steps of my reconversion__
 
 
-## 🕒 **STEP 3 - C# .NET  Developer - Power BI & Sharepoint oriented**
+## 🕒 **Stage 3 - C# .NET  Developer - Power BI & Sharepoint oriented**
 >   March 2021 - Augustus 2021
 
 Data manipulation
@@ -70,14 +70,14 @@ Power BI
 Qlick Sense and Qlick View
 
 
-## 🃏 **AFTERWORK STEP - FLUTTER DEVELOPER**
+## 🃏 **Bonus Stage  - FLUTTER DEVELOPER**
 >   January 2021 - ... 
 
 I chose Flutter as a tool to develop my future applications on multi supports.
 Given the emergence of this tool I practice it outside of my working hours, while finding a growing potential for the future
 
 
-## 🕑 **STEP 2 - Internship ØPP Agency**
+## 🕑 **Stage 2 - Internship ØPP Agency**
 >   Januari 2021 - Februari 2021
 
 [@ØPP](http://opp.mx) is a publisher of digital solutions (websites, applications, connected objects...) specialised in engagement techniques and gaming.  
@@ -85,7 +85,7 @@ I'm lucky that my first professional experience as a developer takes place in th
 The internship was short but will remain a very interesting experience to face day-2-day developer's challenges and how an agency can build apps efficenly.
 
 
-## 🕐 **STEP 1 - **BeCode** Intensive Bootcamp**
+## 🕐 **Stage 1 - **BeCode** Intensive Bootcamp**
 > June-December 2020 - Grade: Junior Developer
 
 In ten months, you have a wonderful opportunity to become a great Junior App & Web Developer. 
@@ -95,7 +95,7 @@ Support is provided by a team of great coaches who will guide you and help you o
 [Summary of all the learning path and projects links](https://github.com/nicode-io/Becode-Learning)
 
 
-## 🕛 **STEP 0 - Self-study**
+## 🕛 **Stage 0 - Self-study**
 > November 2019 - May 2020
 
 My new journey began with a self-taught approach to mastering the essential basics of language and algorithmic learning.
