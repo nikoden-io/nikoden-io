@@ -122,7 +122,8 @@ Due to Covid, this period was extended by six months, which allowed me to be eve
 
 ---
 
-### Timeline : 
+### Timeline
+> Current steps and history of my reconversion
 [:calendar: Discover the great timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
 
 
