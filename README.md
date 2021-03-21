@@ -2,25 +2,21 @@
 > NICODE.IO
 
 #### Hello 👋 , welcome to my all new life as a developer ! 
-
-#### I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/), a computer science enthusiast who is in the middle of his reconversion as a developer.     
-#### After 15 years in the commercial sector as a manager and director, I decided to put this career on hold to devote myself fully to development.   
-#### Positive spirit, with an unquenchable thirst for learning, committed and structured, I like to take up challenges and always progress by giving the best of myself.   
-#### From June 2020 to Early 2021, I successfully completed the web-developer bootcamp organized by BeCode. This was followed by a first experience in a company. 
-#### In March 2021, I will start a new bootcamp dedicated to .NET development with a focus on PowerBI and Sharepoint. This one will end in August 2021 with a TFE presented in front of a jury of professionals.   
-#### If you have a project, no matter how big or small, don't hesitate to share it, we always have to win by doing things alongside others.     
-#### If you are looking to hire a strong hybrid and atypical profile in your team do not hesitate to contact me to check if we can share a project together !  
-
-#### See you soon!   :heart:  
+I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/), a computer science enthusiast who is in the middle of his reconversion as a developer. 
 
 ---
 
-> :mailbox_with_mail: Get in touch :
-- [LinkedIn](linkedin.com/in/nicolas-denoel)
-- [Twitter](https://twitter.com/Nicode_IO)
-- [Mail](mailto:nicolas@nicode.io) 
+INDEX
 
---- 
+- [Skills](#skills)
+- [Who am I](#who-am-i)
+- [Contacts](#contacts)
+- [Reconversion Steps](#reconversion-steps)
+- [Timeline](#timeline)
+
+---
+
+## Skills
 
 | :iphone::computer: LANGUAGES     |  :package: FRAMEWORKS / DEV-ENV / SDK          |  :sparkles: SOFT SKILLS        |  :deciduous_tree: WEEK-END SKILLS |
 |---------------------------------------------------------|------------------------------------------|------------------------------------------------|-----------------------------------|
@@ -44,7 +40,30 @@
 
 ---
 
-## __Main steps of my reconversion__
+## Who am I
+
+####     
+#### After 15 years in the commercial sector as a manager and director, I decided to put this career on hold to devote myself fully to development.   
+#### Positive spirit, with an unquenchable thirst for learning, committed and structured, I like to take up challenges and always progress by giving the best of myself.   
+#### From June 2020 to Early 2021, I successfully completed the web-developer bootcamp organized by BeCode. This was followed by a first experience in a company. 
+#### In March 2021, I will start a new bootcamp dedicated to .NET development with a focus on PowerBI and Sharepoint. This one will end in August 2021 with a TFE presented in front of a jury of professionals.   
+#### If you have a project, no matter how big or small, don't hesitate to share it, we always have to win by doing things alongside others.     
+#### If you are looking to hire a strong hybrid and atypical profile in your team do not hesitate to contact me to check if we can share a project together !  
+
+---
+
+## Contacts
+
+> :mailbox_with_mail: Get in touch :
+- [LinkedIn](linkedin.com/in/nicolas-denoel)
+- [Twitter](https://twitter.com/Nicode_IO)
+- [Mail](mailto:nicolas@nicode.io) 
+
+#### See you soon!   :heart:  
+
+---
+
+## Reconversion steps
 
 
 ## 🕒 **Stage 3 - C# .NET  Developer - Power BI & Sharepoint oriented**
