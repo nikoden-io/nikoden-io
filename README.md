@@ -25,7 +25,7 @@
 | :iphone::computer: LANGUAGES     |  :package: FRAMEWORKS / DEV-ENV / SDK          |  :sparkles: SOFT SKILLS        |  :deciduous_tree: WEEK-END SKILLS |
 |---------------------------------------------------------|------------------------------------------|------------------------------------------------|-----------------------------------|
 | :1st_place_medal: JAVASCRIPT 📉                         | :1st_place_medal: FLUTTER   :chart_with_upwards_trend:   | :1st_place_medal: Positive Communication       | :sunrise_over_mountains: Travel   |
-| :2nd_place_medal: C# :chart_with_upwards_trend       | :2nd_place_medal: REACT & REACT NATIVE :chart_with_downwards_trend:      | :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
+| :2nd_place_medal: C# :chart_with_upwards_trend:       | :2nd_place_medal: REACT & REACT NATIVE :chart_with_downwards_trend:      | :2nd_place_medal: Team Player & Team Leader    | :camera: Photography              |
 | :3rd_place_medal: PYTHON                                | :3rd_place_medal:   DJANGO                                 | :3rd_place_medal: Adapting to change      | :helicopter: Drone                |
 | :white_check_mark: DART :chart_with_upwards_trend       | :white_check_mark: NODE.JS :chart_with_downwards_trend:          | :white_check_mark: Gamification Addict         | :art: Painting                    |
 | :white_check_mark: PHP                             | :white_check_mark: BOOTSTRAP                                     | :white_check_mark: Challenge Lover             | :joystick: Gaming                 |
