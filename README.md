@@ -1,11 +1,12 @@
 ## 👋 Welcome !
 > NICODE.IO
 
-#### Hello, I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/), welcome to my all new life as a developer ! 🚀
+
+####    Hello I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/) and welcome to my Github repo. Thank you already for your interest in my profile. You'll find here more information about my work and my motivations, just make yourself at home ;)
 
 ---
 
-INDEX
+##  INDEX
 
 - [Skills](#skills)
 - [Who am I](#who-am-i)
@@ -15,7 +16,7 @@ INDEX
 
 ---
 
-## Skills
+##  Skills
 
 | :iphone::computer: LANGUAGES                            |  :package: FRAMEWORKS / DEV-ENV / SDK                    |  :sparkles: SOFT SKILLS                        |  :deciduous_tree: WEEK-END SKILLS |
 |---------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|-----------------------------------|
@@ -31,10 +32,7 @@ INDEX
 | :white_check_mark: HTML 5 / CSS 3 / SASS                |
 | :white_check_mark: GIT GITFLOW GITKRAKEN                |   
 | :white_check_mark: POWER BI :chart_with_upwards_trend:  |            
-| :white_check_mark: VPS-UBUNTU SERVER                    |               
-              
-          
-
+| :white_check_mark: VPS-UBUNTU SERVER                    |
 
 ---
 
@@ -123,7 +121,8 @@ Due to Covid, this period was extended by six months, which allowed me to be eve
 ### Timeline
 > Current steps and history of my reconversion
 
-[:calendar: Discover the timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
+![Timeline](Timeline-21-04-05.png "Reconversion Timeline")
+[:calendar: Discover the timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2021-08-02)  
 
 
  
