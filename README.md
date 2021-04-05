@@ -20,9 +20,9 @@
 
 | :iphone::computer: LANGUAGES                            |  :package: FRAMEWORKS / DEV-ENV / SDK                    |  :sparkles: SOFT SKILLS                        |  :deciduous_tree: WEEK-END SKILLS |
 |---------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|-----------------------------------|
-| :1st_place_medal: DART :chart_with_upwards_trend:       | :1st_place_medal: FLUTTER   :chart_with_upwards_trend:   | :white_check_mark: Positive Communication      | :sunrise_over_mountains: Travel   |
-| :2nd_place_medal: C# :chart_with_upwards_trend:         | :2nd_place_medal: NODE.JS                                | :white_check_mark: Team Player & Team Leader   | :camera: Photography              |
-| :3rd_place_medal: JAVASCRIPT                            | :3rd_place_medal: DJANGO                                 | :white_check_mark: Adapting to change          | :helicopter: Drone                |
+| :1st_place_medal: JAVASCRIPT                            | :1st_place_medal: NODE.JS                                | :white_check_mark: Positive Communication      | :sunrise_over_mountains: Travel   |
+| :2nd_place_medal: DART :chart_with_upwards_trend:       | :2nd_place_medal: FLUTTER   :chart_with_upwards_trend:   | :white_check_mark: Team Player & Team Leader   | :camera: Photography              |
+| :3rd_place_medal: C# :chart_with_upwards_trend:         | :3rd_place_medal: DJANGO                                 | :white_check_mark: Adapting to change          | :helicopter: Drone                |
 | :white_check_mark: PYTHON                               | :white_check_mark: ASP.NET :chart_with_upwards_trend:    | :white_check_mark: Challenge Lover             | :art: Painting                    |
 | :white_check_mark: SQL :chart_with_upwards_trend:       | :white_check_mark: REACT & REACT NATIVE                  | :white_check_mark: Organized and Structured    | :joystick: Gaming                 |
 |                                                         | :white_check_mark: BOOTSTRAP                             | :white_check_mark: Gamification Addict         | :open_hands: Volunteering         |
