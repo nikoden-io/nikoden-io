@@ -11,8 +11,8 @@
 - [Skills](#skills)
 - [Who am I](#who-am-i)
 - [Contacts](#contacts)
-- [Reconversion Steps](#reconversion-steps)
 - [Timeline](#timeline)
+- [Reconversion Steps](#reconversion-steps)
 
 ---
 
@@ -55,7 +55,13 @@
 - [Twitter](https://twitter.com/Nicode_IO)
 - [Mail](mailto:nicolas@nicode.io) 
 
-#### See you soon!   :heart:  
+---
+
+### Timeline
+> Current steps and history of my reconversion
+
+![Timeline](Timeline-21-04-05.png "Reconversion Timeline")
+[:calendar: Discover the timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2021-08-02)
 
 ---
 
@@ -116,13 +122,6 @@ Support is provided by a team of great coaches who will guide you and help you o
 My new journey began with a self-taught approach to mastering the essential basics of language and algorithmic learning.
 Due to Covid, this period was extended by six months, which allowed me to be even better prepared for my Becode bootcamp.
 
----
-
-### Timeline
-> Current steps and history of my reconversion
-
-![Timeline](Timeline-21-04-05.png "Reconversion Timeline")
-[:calendar: Discover the timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2021-08-02)  
 
 
  
