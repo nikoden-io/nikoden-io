@@ -27,18 +27,17 @@
 | :white_check_mark: SQL :chart_with_upwards_trend:       | :white_check_mark: REACT & REACT NATIVE                  | :white_check_mark: Organized and Structured    | :joystick: Gaming                 |
 |                                                         | :white_check_mark: BOOTSTRAP                             | :white_check_mark: Gamification Addict         | :open_hands: Volunteering         |
 
-| :man_technologist: OTHER SKILLS                         |                          |  
-|---------------------------------------------------------|---------------------------
-| :white_check_mark: HTML 5 / CSS 3 / SASS                |     <a href="https://github.com/nicode-io/nicode-io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicode-io&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-</br>
-<a href="https://github.com/nicode-io/nicode-io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicode-io&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>                     |
+| :man_technologist: OTHER SKILLS                         |                        
+|---------------------------------------------------------|
+| :white_check_mark: HTML 5 / CSS 3 / SASS                |        
 | :white_check_mark: GIT GITFLOW GITKRAKEN                |   
 | :white_check_mark: POWER BI :chart_with_upwards_trend:  |            
 | :white_check_mark: VPS-UBUNTU SERVER                    |
+
+</br>
+<a href="https://github.com/nicode-io/nicode-io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicode-io&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>                 
 
 ---
 
