@@ -11,7 +11,7 @@
 - [Skills](#skills)
 - [Who am I](#who-am-i)
 - [Contacts](#contacts)
-- [Timeline Stats](#timeline-stats)
+- [Timeline](#timeline)
 - [Reconversion Steps](#reconversion-steps)
 
 ---
@@ -27,9 +27,15 @@
 | :white_check_mark: SQL :chart_with_upwards_trend:       | :white_check_mark: REACT & REACT NATIVE                  | :white_check_mark: Organized and Structured    | :joystick: Gaming                 |
 |                                                         | :white_check_mark: BOOTSTRAP                             | :white_check_mark: Gamification Addict         | :open_hands: Volunteering         |
 
-| :man_technologist: OTHER SKILLS                         |
-|---------------------------------------------------------|
-| :white_check_mark: HTML 5 / CSS 3 / SASS                |
+| :man_technologist: OTHER SKILLS                         |                          |  
+|---------------------------------------------------------|---------------------------
+| :white_check_mark: HTML 5 / CSS 3 / SASS                |     <a href="https://github.com/nicode-io/nicode-io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicode-io&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+</br>
+<a href="https://github.com/nicode-io/nicode-io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicode-io&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>                     |
 | :white_check_mark: GIT GITFLOW GITKRAKEN                |   
 | :white_check_mark: POWER BI :chart_with_upwards_trend:  |            
 | :white_check_mark: VPS-UBUNTU SERVER                    |
@@ -57,16 +63,8 @@
 
 ---
 
-### Timeline Stats
-> Current steps of my reconversion & GitHub stats
-
-<a href="https://github.com/nicode-io/nicode-io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicode-io&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-</br>
-<a href="https://github.com/nicode-io/nicode-io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicode-io&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>
+### Timeline
+> Current steps of my reconversion
 
 ![Timeline](Timeline-21-04-05.png "Reconversion Timeline")
 [:calendar: Discover the timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2021-08-02)
