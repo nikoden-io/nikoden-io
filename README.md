@@ -17,10 +17,14 @@
 
 ##  Skills
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="CSS" width="25" height="25"/>
+</br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS" width="25" height="25"/> 
+
 | :iphone::computer: LANGUAGES                            |  :package: FRAMEWORKS / DEV-ENV / SDK                    |  :sparkles: SOFT SKILLS                        |  :deciduous_tree: WEEK-END SKILLS |
 |---------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|-----------------------------------|
 | :1st_place_medal: JAVASCRIPT                            | :1st_place_medal: NODE.JS                                | :white_check_mark: Positive Communication      | :sunrise_over_mountains: Travel   |
-| :2nd_place_medal: DART :chart_with_upwards_trend:       | :2nd_place_medal:  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="CSS" width="25" height="25"/>FLUTTER   :chart_with_upwards_trend:   | :white_check_mark: Team Player & Team Leader   | :camera: Photography              |
+| :2nd_place_medal: DART :chart_with_upwards_trend:       | :2nd_place_medal:  FLUTTER   :chart_with_upwards_trend:   | :white_check_mark: Team Player & Team Leader   | :camera: Photography              |
 | :3rd_place_medal: C# :chart_with_upwards_trend:         | :3rd_place_medal: DJANGO                                 | :white_check_mark: Adapting to change          | :helicopter: Drone                |
 | :white_check_mark: PYTHON                               | :white_check_mark: ASP.NET :chart_with_upwards_trend:    | :white_check_mark: Challenge Lover             | :art: Painting                    |
 | :white_check_mark: SQL :chart_with_upwards_trend:       | :white_check_mark: REACT & REACT NATIVE                  | :white_check_mark: Organized and Structured    | :joystick: Gaming                 |
@@ -28,7 +32,7 @@
 
 | :man_technologist: OTHER SKILLS                         |                        
 |---------------------------------------------------------|
-| :white_check_mark: HTML 5 / CSS 3 / SASS  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="25" height="25"/>             |        
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS" width="25" height="25"/>             |        
 | :white_check_mark: GIT GITFLOW GITKRAKEN                |   
 | :white_check_mark: POWER BI :chart_with_upwards_trend:  |            
 | :white_check_mark: VPS-UBUNTU SERVER                    |
