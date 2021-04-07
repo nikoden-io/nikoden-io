@@ -27,6 +27,8 @@
 |---------------------------------------------------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="CSS" width="40" height="40"/> |        
 
+--- 
+
 ## &#x1f4c8; GitHub Stats
 
 </br>
@@ -40,6 +42,8 @@
 </a>  <a href="https://twitter.com/nicode_io">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter.com/inicode_io" width="40" height="40" />
 </a>  
+
+--- 
 
 ### Timeline
 > Current steps of my reconversion
