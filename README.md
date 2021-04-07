@@ -17,8 +17,8 @@
 
 |  :sparkles: SOFT SKILLS                        |  :deciduous_tree: WEEK-END SKILLS |
 |------------------------------------------------|-----------------------------------|
-| :white_check_mark: Positive Communication      | :sunrise_over_mountains: Travel   |
-| :white_check_mark: Team Player & Team Leader   | :camera: Photography              |
+| :white_check_mark: Positive Communication      | :camera: Photography              |
+| :white_check_mark: Team Player & Team Leader   | :sunrise_over_mountains: Travel   |
 | :white_check_mark: Adapting to change          | :helicopter: Drone                |
 | :white_check_mark: Challenge Lover             | :art: Painting                    |
 | :white_check_mark: Organized and Structured    | :joystick: Gaming                 |
