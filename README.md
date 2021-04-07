@@ -19,7 +19,7 @@
 
 | :iphone::computer: LANGUAGES                            |
 |---------------------------------------------------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="CSS" width="60" height="60"/><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Dart-logo-wordmark.svg" alt="CSS" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSS" width="60" height="60"/>| :1st_place_medal: <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="CSS" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="CSS" width="60" height="60"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="CSS" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Dart-logo-wordmark.svg" alt="CSS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="CSS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="CSS" width="50" height="50"/> |
 
 
 
