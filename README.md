@@ -2,10 +2,8 @@
 > NICODE.IO
 
 
-####    Hello I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/) and welcome to my Github repo, just make yourself at home ;)
-####    After 15 years in sales and management, I decided to put this career on hold to devote myself fully to development.   
-####    Passionate about teamwork, I like to bring motivation to each of my team members in order to work efficiently in a positive environment.   
-####    Photography brings me the necessary dose of creativity and discovery, it also contributes to sharpen my sense of detail
+####  Hello I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/) and welcome to my Github repo, just make yourself at home ;) 
+####  After 15 years in sales and management, I decided to put this career on hold to devote myself fully to development. Passionate about teamwork, I like to bring motivation to each of my team members in order to work efficiently in a positive environment. Photography brings me the necessary dose of creativity and discovery, it also contributes to sharpen my sense of detail
 
 ---
 
