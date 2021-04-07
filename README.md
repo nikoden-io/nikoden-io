@@ -1,17 +1,10 @@
+![twitter-follower](https://img.shields.io/twitter/follow/nicode_io?style=social)
+
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome !
 > NICODE.IO
 
 
 ####    Hello I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/) and welcome to my Github repo. Thank you already for your interest in my profile. You'll find here more information about my work and my motivations, just make yourself at home ;)
-
----
-
-##  INDEX
-
-- [Skills](#skills)
-- [Who am I](#who-am-i)
-- [Contacts](#contacts)
-- [Timeline](#timeline)
 
 ---
 
