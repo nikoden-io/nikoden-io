@@ -37,10 +37,13 @@
 
 ## Contacts
 
-> :mailbox_with_mail: Get in touch :
-- [LinkedIn](linkedin.com/in/nicolas-denoel)
-- ![twitter-follower](https://img.shields.io/twitter/follow/nicode_io?style=social)
-- [Mail](mailto:nicolas@nicode.io) 
+<a href="https://linkedin.com/in/nicolas-denoel">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin.com/in/nicolas-denoel" />
+</a>
+
+![twitter-follower](https://img.shields.io/twitter/follow/nicode_io?style=social)
+
+[:mailbox_with_mail:](mailto:nicolas@nicode.io) 
 
 ---
 
