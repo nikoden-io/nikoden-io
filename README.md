@@ -6,9 +6,6 @@
 ####    After 15 years in sales and management, I decided to put this career on hold to devote myself fully to development.   
 ####    Passionate about teamwork, I like to bring motivation to each of my team members in order to work efficiently in a positive environment.   
 ####    Photography brings me the necessary dose of creativity and discovery, it also contributes to sharpen my sense of detail
-####    From June 2020 to Early 2021, I successfully completed the web-developer bootcamp organized by BeCode. This was followed by a first experience in a company. 
-####    In March 2021, I will start a new bootcamp dedicated to .NET development with a focus on PowerBI and Sharepoint. This one will end in September 2021.    
-####    If you are looking to hire a strong hybrid and atypical profile in your team do not hesitate to contact me to check if we can share a project together !  
 
 ---
 
