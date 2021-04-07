@@ -12,7 +12,6 @@
 - [Who am I](#who-am-i)
 - [Contacts](#contacts)
 - [Timeline](#timeline)
-- [Reconversion Steps](#reconversion-steps)
 
 ---
 
@@ -29,7 +28,7 @@
 
 | :man_technologist: OTHER SKILLS                         |                        
 |---------------------------------------------------------|
-| :white_check_mark: HTML 5 / CSS 3 / SASS  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="25" height="25"/> <img               |        
+| :white_check_mark: HTML 5 / CSS 3 / SASS  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="25" height="25"/>              |        
 | :white_check_mark: GIT GITFLOW GITKRAKEN                |   
 | :white_check_mark: POWER BI :chart_with_upwards_trend:  |            
 | :white_check_mark: VPS-UBUNTU SERVER                    |
@@ -69,64 +68,3 @@
 [:calendar: Discover the timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2021-08-02)
 
 ---
-
-## Reconversion steps
-
-
-## 🕒 **Stage 3 - C# .NET  Developer - Power BI & Sharepoint oriented**
->   March 2021 - Augustus 2021
-
-Data manipulation
-Relational modeling and denormalization
-Development in declarative SQL
-Procedural SQL development
-
-.NET development
-C# development
-Database connectivity with ADO and LINQ
-Entity Framework
-ASP development in MVC
-Web API and consumption in SharePoint
-
-Business Intelligence
-Foundations of BI
-Dimensional modeling
-Datawarehousing with SSIS, SSRS and SSAS
-Power BI
-Qlick Sense and Qlick View
-
-
-## 🃏 **Bonus Stage  - FLUTTER DEVELOPER**
->   January 2021 - ... 
-
-I chose Flutter as a tool to develop my future applications on multi supports.
-Given the emergence of this tool I practice it outside of my working hours, while finding a growing potential for the future
-
-
-## 🕑 **Stage 2 - Internship ØPP Agency**
->   Januari 2021 - Februari 2021
-
-[@ØPP](http://opp.mx) is a publisher of digital solutions (websites, applications, connected objects...) specialised in engagement techniques and gaming.  
-I'm lucky that my first professional experience as a developer takes place in this framework which suits me so well. 
-The internship was short but will remain a very interesting experience to face day-2-day developer's challenges and how an agency can build apps efficenly.
-
-
-## 🕐 **Stage 1 - **BeCode** Intensive Bootcamp**
-> June-December 2020 - Grade: Junior Developer
-
-In ten months, you have a wonderful opportunity to become a great Junior App & Web Developer. 
-We are motivated by inclusion and the spirit of sharing!   
-The bootcamp aims at acquiring self-learning skills and mastering a junior web developer path, both frontend and backend. 
-Support is provided by a team of great coaches who will guide you and help you overcome the various peaks of difficulty encountered.
-[Summary of all the learning path and projects links](https://github.com/nicode-io/Becode-Learning)
-
-
-## 🕛 **Stage 0 - Self-study**
-> November 2019 - May 2020
-
-My new journey began with a self-taught approach to mastering the essential basics of language and algorithmic learning.
-Due to Covid, this period was extended by six months, which allowed me to be even better prepared for my Becode bootcamp.
-
-
-
- 
