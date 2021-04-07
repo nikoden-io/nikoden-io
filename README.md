@@ -1,5 +1,3 @@
-![twitter-follower](https://img.shields.io/twitter/follow/nicode_io?style=social)
-
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome !
 > NICODE.IO
 
@@ -8,22 +6,21 @@
 
 ---
 
-##  Skills
-
-| :iphone::computer: LANGUAGES                            |
-|---------------------------------------------------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="CSS" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Dart-logo-wordmark.svg" alt="CSS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="CSS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="CSS" width="50" height="50"/> |
+## 🧰 Toolbox
 
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSS" width="60" height="60"/>  <img src="hhttps://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="CSS" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="CSS" width="50" height="50"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Dart-logo-wordmark.svg" alt="CSS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="CSS" width="60" height="60"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="CSS" width="60" height="60"/>
 
-| :iphone::computer: LANGUAGES                            |  :package: FRAMEWORKS              |  :sparkles: SOFT SKILLS                        |  :deciduous_tree: WEEK-END SKILLS |
-|---------------------------------------------------------|------------------------------------|------------------------------------------------|-----------------------------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="CSS" width="60" height="60"/><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Dart-logo-wordmark.svg" alt="CSS" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSS" width="60" height="60"/>| :1st_place_medal: <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="CSS" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="CSS" width="60" height="60"/> | :white_check_mark: Positive Communication      | :sunrise_over_mountains: Travel   |
-| :2nd_place_medal:  :chart_with_upwards_trend | :2nd_place_medal: <img src="hhttps://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="CSS" width="60" height="60"/> :chart_with_upwards_trend:   | :white_check_mark: Team Player & Team Leader   | :camera: Photography              |
-| :3rd_place_medal:   :chart_with_upwards_trend: | :3rd_place_medal: <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="CSS" width="60" height="60"/>| :white_check_mark: Adapting to change          | :helicopter: Drone                |
-| :white_check_mark:  | :white_check_mark: <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="CSS" width="60" height="60"/>  :chart_with_upwards_trend:    | :white_check_mark: Challenge Lover             | :art: Painting                    |
-|                                                         | :white_check_mark: <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="CSS" width="60" height="60"/> | :white_check_mark: Organized and Structured    | :joystick: Gaming                 |
-|                                                         |          | :white_check_mark: Gamification Addict         | :open_hands: Volunteering         |
+
+
+|  :sparkles: SOFT SKILLS                        |  :deciduous_tree: WEEK-END SKILLS |
+|------------------------------------------------|-----------------------------------|
+| :white_check_mark: Positive Communication      | :sunrise_over_mountains: Travel   |
+| :white_check_mark: Team Player & Team Leader   | :camera: Photography              |
+| :white_check_mark: Adapting to change          | :helicopter: Drone                |
+| :white_check_mark: Challenge Lover             | :art: Painting                    |
+| :white_check_mark: Organized and Structured    | :joystick: Gaming                 |
+| :white_check_mark: Gamification Addict         | :open_hands: Volunteering         |
 
 | :man_technologist: OTHER SKILLS                         |                        
 |---------------------------------------------------------|
@@ -53,7 +50,7 @@
 
 > :mailbox_with_mail: Get in touch :
 - [LinkedIn](linkedin.com/in/nicolas-denoel)
-- [Twitter](https://twitter.com/Nicode_IO)
+- ![twitter-follower](https://img.shields.io/twitter/follow/nicode_io?style=social)
 - [Mail](mailto:nicolas@nicode.io) 
 
 ---
