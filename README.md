@@ -37,13 +37,15 @@
 
 ## Contacts
 
-<a href="https://linkedin.com/in/nicolas-denoel">
+| | | |
+|-|-|-|
+|<a href="https://linkedin.com/in/nicolas-denoel">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin.com/in/nicolas-denoel" width="40" height="40" />
-</a> 
+</a>  | ![twitter-follower](https://img.shields.io/twitter/follow/nicode_io?style=social) | [:mailbox_with_mail:](mailto:nicolas@nicode.io)  |
 
-![twitter-follower](https://img.shields.io/twitter/follow/nicode_io?style=social)
 
-[:mailbox_with_mail:](mailto:nicolas@nicode.io) 
+
+
 
 ---
 
