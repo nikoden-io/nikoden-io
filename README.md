@@ -29,7 +29,7 @@
 
 | :man_technologist: OTHER SKILLS                         |                        
 |---------------------------------------------------------|
-| :white_check_mark: HTML 5 / CSS 3 / SASS                |        
+| :white_check_mark: HTML 5 / CSS 3 / SASS  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="25" height="25"/> <img               |        
 | :white_check_mark: GIT GITFLOW GITKRAKEN                |   
 | :white_check_mark: POWER BI :chart_with_upwards_trend:  |            
 | :white_check_mark: VPS-UBUNTU SERVER                    |
