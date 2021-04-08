@@ -34,7 +34,7 @@
 
 </br>
 <a href="https://github.com/nicode-io/nicode-io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicode-io&show_icons=true&line_height=20&count_private=true&title_color=008081f&text_color=008080&icon_color=000000&bg_color=808080" alt="Nicode's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicode-io&show_icons=true&line_height=20&count_private=true&title_color=008081f&text_color=008080&icon_color=008080&bg_color=000000" alt="Nicode's GitHub Stats" />
 </a>   
 
 ---
