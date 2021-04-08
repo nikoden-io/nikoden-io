@@ -32,7 +32,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicode-io&theme=dark&hide_border=true&background=B8CACA)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicode-io&theme=dark&hide_border=true&background=23272D)](https://git.io/streak-stats)
 
 ---
 
