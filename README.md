@@ -32,12 +32,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicode-io)](https://git.io/streak-stats)
-
-</br>
-<a href="https://github.com/nicode-io/nicode-io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicode-io&show_icons=true&line_height=20&count_private=true&title_color=008081f&text_color=008080&icon_color=008080&bg_color=22282D" alt="Nicode's GitHub Stats" />
-</a>   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicode-io&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
