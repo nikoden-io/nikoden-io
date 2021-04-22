@@ -11,7 +11,7 @@
 ## 🧰 Toolbox
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="CSharp" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotNet" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
 
 
 
