@@ -30,10 +30,11 @@
 
 --- 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicode-io&theme=dark&background=2E333A&border=B8CACA&sideNums=FFCB6C&sideLabels=FFCB6C&currStreakNum=FF511D&stroke=2E333A)](https://git.io/streak-stats)
 
+<figure><embed src="https://wakatime.com/share/@Nicode/c6e679d7-13bb-4f14-92c4-9818d9d255cf.svg"></embed></figure>
 ---
 
 <a href="https://linkedin.com/in/nicolas-denoel">
