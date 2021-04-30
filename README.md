@@ -47,6 +47,6 @@
 > Current steps and history of my reconversion
 
 <a href="https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-06-02_2021-09-08">
-    <img src="./images/timeline.png" alt="Timeline">
+    <img src="./images/Timeline.png" alt="Timeline">
 </a>
 
