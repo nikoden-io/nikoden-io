@@ -26,7 +26,7 @@
 
 | :man_technologist: OTHER SKILLS                         |                        
 |---------------------------------------------------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="CSS" width="40" height="40"/> |        
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="CSS" width="40" height="40"/> |        
 
 --- 
 
@@ -42,12 +42,11 @@
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter.com/inicode_io" width="40" height="40" />
 </a>  
 
-### Timeline
-> Current steps of my reconversion
+## Timeline
 
+> Current steps and history of my reconversion
 
-![Timeline](images/Timeline.png)
-
-
-[:calendar: Discover the timeline of my adventure to become a developer. Want to write your company's name on it ? Let's meet !](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2021-08-02)
+<a href="https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-06-02_2021-09-08">
+    <img src="./images/Timeline.png" alt="Timeline">
+</a>
 
