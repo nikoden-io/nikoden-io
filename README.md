@@ -10,8 +10,11 @@
 
 ## 🧰 Toolbox
 
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotNet" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotNet" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="50" height="50"/>
 
 
 
@@ -26,7 +29,12 @@
 
 | :man_technologist: OTHER SKILLS                         |                        
 |---------------------------------------------------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="CSS" width="40" height="40"/> |        
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="35" height="35"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="CSS" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="CSS" width="40" height="40"/> |        
 
 --- 
 
