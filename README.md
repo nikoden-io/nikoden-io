@@ -32,6 +32,12 @@
 
 ---
 
+## &#x1f4c8; Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicode-io&theme=dark&background=2E333A&border=B8CACA&sideNums=FFCB6C&sideLabels=FFCB6C&currStreakNum=FF511D&stroke=2E333A)](https://git.io/streak-stats)
+
+---
+
 <a href="https://linkedin.com/in/nicolas-denoel">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin.com/in/nicolas-denoel" width="40" height="40" />
 </a>  <a href="https://twitter.com/nicode_io">
