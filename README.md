@@ -3,8 +3,9 @@
 
 
 ####  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, welcome to my Github repo, just make yourself at home ;) 
-####  I am a medior developer who, after 15 years in sales and management, decided to put this career on hold to devote myself fully to development. 
-####  Passionate about teamwork, I like to bring motivation to each of my team members in order to work efficiently in a positive environment. Photography brings me the necessary dose of creativity and discovery, it also contributes to sharpen my sense of detail. 
+####  I am a mobile app developer, I work most with multi-platform SDK: ReactNative and Flutter
+####  Passionate about teamwork, I like to bring motivation to each of my team members in order to work efficiently in a positive environment. 
+####  In my spare time, photography brings me the necessary dose of creativity and discovery, it also contributes to sharpen my sense of detail. 
 
 ---
 
