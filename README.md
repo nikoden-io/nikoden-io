@@ -4,7 +4,7 @@
 
 ####  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ####  Hello, welcome to my Github repo, just make yourself at home ;) 
-####  I am a mobile app developer, I work most with multi-platform SDK: ReactNative and Flutter
+####  I am a REACT (JS & Native) Developer. I also like to develop with Flutter in my, too rare, free time
 ####  Passionate about teamwork, I like to bring motivation to each of my team members in order to work efficiently in a positive environment. 
 ####  In my spare time, photography brings me the necessary dose of creativity and discovery, it also contributes to sharpen my sense of detail. 
 
@@ -12,7 +12,7 @@
 
 ## 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="NodeJS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/> 
 
 
