@@ -3,8 +3,9 @@
 
 
 ####  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-####  Hello, welcome to my Github repo, just make yourself at home ;) 
-####  I am a REACT (JS & Native) Developer. I also like to develop with Flutter in my, too rare, free time
+####  Hello, welcome to my Github repo ;) 
+####  I am a React Native Developer for the moment, I love hooks, context and working on growing my tech stack every day. 
+    I also like to develop with Flutter in my, too rare, free time
 ####  Passionate about teamwork, I like to bring motivation to each of my team members in order to work efficiently in a positive environment. 
 ####  In my spare time, photography brings me the necessary dose of creativity and discovery, it also contributes to sharpen my sense of detail. 
 
