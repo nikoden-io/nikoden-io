@@ -5,7 +5,8 @@
 ####  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ####  Hello follks, 
 
-I'm Nicolas, after a successful career in sales management, I decided in 2020 to devote myself to IT development, more specifically web & mobile application development. Currently I'm working as a React Native developer, creating applications to manage home-automation devices like lights, shutters, cooling/heating system, doors and many more.   
+I'm Nicolas, after a successful career in sales management, I decided in 2020 to devote myself to IT development, more specifically web & mobile application development.  
+Currently I'm working as a React Native developer, creating applications to manage home-automation devices like lights, shutters, cooling/heating system, doors and many more.   
 
 I'm also working on a web-platform to administrate and manage installations, devices and users.     
   
