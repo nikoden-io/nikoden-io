@@ -40,9 +40,7 @@
 
 <a href="https://linkedin.com/in/nicolas-denoel">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin.com/in/nicolas-denoel" width="40" height="40" />
-</a>  <a href="https://twitter.com/nicode_io">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter.com/inicode_io" width="40" height="40" />
-</a>  
+</a> 
 
 ## Timeline
 
