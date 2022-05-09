@@ -4,9 +4,15 @@
 
 ####  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ####  Hello follks, ;) 
-####  I am a  React & React Native Developer which love hooks, context and components' splitting. 
-####  Passionate about teamwork, I like to bring positive and motivational message to my teammates because productivity always benefits. 
-####  In my spare time, photography brings me the necessary dose of creativity and discovery, it also contributes to sharpen my sense of detail. 
+
+☑ React & React Native Developer in TypeScript & JavaScript
+☑ Agile workflow, I like user stories and Epics 
+☑ Problem solver & Challenge lover
+☑ Backend practician
+☑ Great fan of Flutter
+
+After a successful career in sales management, I decided in 2020 to devote myself to IT development, more specifically web & mobile application development. 
+Hard worker, I give myself the means every day to meet the new challenges related to this new career. As I am always looking for a challenge, do not hesitate to share your projects and needs
 
 ---
 
