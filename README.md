@@ -5,11 +5,11 @@
 ####  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ####  Hello follks, ;) 
 
-☑ React & React Native Developer in TypeScript & JavaScript
-☑ Agile workflow, I like user stories and Epics 
-☑ Problem solver & Challenge lover
-☑ Backend practician
-☑ Great fan of Flutter
+☑ React & React Native Developer in TypeScript & JavaScript     
+☑ Agile workflow, I like user stories and Epics   
+☑ Problem solver & Challenge lover    
+☑ Backend practician    
+☑ Great fan of Flutter     
 
 After a successful career in sales management, I decided in 2020 to devote myself to IT development, more specifically web & mobile application development. 
 Hard worker, I give myself the means every day to meet the new challenges related to this new career. As I am always looking for a challenge, do not hesitate to share your projects and needs
