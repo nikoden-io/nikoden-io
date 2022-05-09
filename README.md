@@ -26,8 +26,8 @@ Hard worker, I give myself the means every day to meet the new challenges relate
 |------------------------------------------------|-----------------------------------|
 | :white_check_mark: Positive Communication      | :camera: Photography              |
 | :white_check_mark: Team Player & Team Leader   | :sunrise_over_mountains: Travel   |
-| :white_check_mark: Adapting to change          | :helicopter: Drone                |
-| :white_check_mark: Challenge Lover             | :art: Painting                    |
+| :white_check_mark: Agile/ SCRUM flow           | :helicopter: Drone                |
+| :white_check_mark: Solution-orientation        | :art: Painting                    |
 | :white_check_mark: Organized and Structured    | :joystick: Gaming                 |
 | :white_check_mark: Gamification Addict         | :open_hands: Volunteering         |
 
