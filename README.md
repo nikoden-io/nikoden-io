@@ -11,14 +11,6 @@ I'm also working on a web-platform to administrate and manage installations, dev
   
 Hard worker, I give myself the means every day to meet the new challenges related to this new career. As I am always looking for a challenge, do not hesitate to share your projects and needs
 
-
-☑ React & React Native Developer in TypeScript & JavaScript     
-☑ Agile workflow, I like user stories and Epics   
-☑ Problem solver & Challenge lover    
-☑ Backend practician    
-☑ Great fan of Flutter     
-
-
 ---
 
 ## 🧰 Toolbox
@@ -32,7 +24,7 @@ Hard worker, I give myself the means every day to meet the new challenges relate
 | :white_check_mark: Positive Communication      | :camera: Photography              |
 | :white_check_mark: Team Player & Team Leader   | :sunrise_over_mountains: Travel   |
 | :white_check_mark: Agile/ SCRUM flow           | :helicopter: Drone                |
-| :white_check_mark: Solution-orientation        | :art: Painting                    |
+| :white_check_mark: Problem-solver              | :art: Painting                    |
 | :white_check_mark: Organized and Structured    | :joystick: Gaming                 |
 | :white_check_mark: Gamification Addict         | :open_hands: Volunteering         |
 
