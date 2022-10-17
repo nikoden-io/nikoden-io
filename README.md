@@ -48,7 +48,7 @@ Hard worker, I give myself the means every day to meet the new challenges relate
 
 ## Timeline
 
-> Current steps and history of my reconversion
+> My technical timelina
 
 <a href="https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-06-02_2021-09-08">
     <img src="./images/Timeline.png" alt="Timeline">
