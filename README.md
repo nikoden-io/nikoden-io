@@ -2,43 +2,51 @@
 
 
 
-####  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-####  Hello follks, 
+#### Hello,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-I'm Nicolas, after a successful career in sales management, I decided in 2020 to devote myself to IT development, more specifically web & mobile application development. I choose TypeScript and React as my first main stack but every day I'm opening my tech scope to other technologies.
+⏳ 7+ year career as a Sales Director? Done that.
 
-Currently I'm working as a React Native developer, creating applications to manage home-automation devices like lights, shutters, cooling/heating system, doors and many more.   
-I'm also working on a web-platform to administrate and manage installations, devices and users.     
-  
-Hard worker, I give myself the means every day to meet the new challenges related to this new career. As I am always looking for a challenge, do not hesitate to share your projects and needs
+🚀 Leap into the tech world in 2020? Been there.
+
+💼 Journeyed my way to Domintell? I'm there.
+
+At Domintell, I've found my sweet spot - fusing my love for coding and my penchant for people skills.
+
+🛠️ My tools of choice? TypeScript, JavaScript, React Native, ReactJS, NodeJS, Python, and recently, Dart & Flutter.
+
+🎯 Together, we've turned ideas into reality - architecting robust software and mobile applications 📱, integrating advanced features, and venturing into the exciting realm of home automation and embedded technologies.
+
+📈 As for managing the team, I steer us through a customized Agile-like workflow. But I know management isn't just about giving directives. It's about understanding and supporting each unique member of our team 🌈. Recognizing everyone's strengths has been our key to shared success 🏆.
+
+💡 Today, I'm more than just a tech lead with a knack for React/React Native and TypeScript. I like to be the guy who champions his team, making sure everyone feels valued.
+
+🤝 If you're intrigued by my journey, or if you see potential for us to create something amazing together, don't hesitate to reach out. Let's connect!
+
+I am constantly seeking new challenges and opportunities to expand my skills and knowledge, and I am excited to see what the future holds in this dynamic and ever-changing field.
+
 
 ---
-
-## 🧰 Toolbox
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/> 
-
-
-|  :sparkles: SOFT SKILLS                        |  :deciduous_tree: WEEK-END SKILLS |
-|------------------------------------------------|-----------------------------------|
-| :white_check_mark: Positive Communication      | :camera: Photography              |
-| :white_check_mark: Team Player & Team Leader   | :sunrise_over_mountains: Travel   |
-| :white_check_mark: Agile/ SCRUM flow           | :helicopter: Drone                |
-| :white_check_mark: Problem-solver              | :art: Painting                    |
-| :white_check_mark: Organized and Structured    | :joystick: Gaming                 |
-| :white_check_mark: Gamification Addict         | :open_hands: Volunteering         |
-
-| :man_technologist: OTHER SKILLS                         |                        
-|---------------------------------------------------------|
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="CSS" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS" width="40" height="40"/>
 
----
+| :man_technologist: TECH SKILLS                                                     |                        
+|------------------------------------------------------------------------------------|
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="65" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/> 
 
 ## &#x1f4c8; Git Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicode-io&theme=dark&background=2E333A&border=B8CACA&sideNums=FFCB6C&sideLabels=FFCB6C&currStreakNum=FF511D&stroke=2E333A)](https://git.io/streak-stats)
+|  :sparkles: SOFT SKILLS                        |  :deciduous_tree: WEEK-END SKILLS |
+|------------------------------------------------|-----------------------------------|
+| :white_check_mark: Problem-solver              | :camera: Photography              |
+| :white_check_mark: Team Player & Team Leader   | :sunrise_over_mountains: Travel   |
+| :white_check_mark: Agile/ SCRUM flow           | :book: Learning                   |
+| :white_check_mark: Organized and Structured    | :open_hands: Volunteering         |
+| :white_check_mark: Gamification supporter      | :joystick: Gaming.                |
+
+| ::triangular_ruler: MUST-HAVE SKILLS                                               |                        
+|------------------------------------------------------------------------------------|
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="CSS" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS" width="40" height="40"/>
 
 ---
 
