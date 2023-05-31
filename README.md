@@ -52,11 +52,3 @@ I am always seeking new challenges and opportunities to expand my skills and kno
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin.com/in/nicolas-denoel" width="40" height="40" />
 </a> 
 
-## Timeline
-
-> My technical timelina
-
-<a href="https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-06-02_2021-09-08">
-    <img src="./images/Timeline.png" alt="Timeline">
-</a>
-
