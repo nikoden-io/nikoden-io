@@ -4,25 +4,23 @@
 
 #### Hello,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-⏳ 7+ year career as a Sales Director? Done that.
+⏳ Over 7 years of experience as a Sales Director? Been there, done that.
 
-🚀 Leap into the tech world in 2020? Been there.
+🚀 Made a leap into the tech world in 2020? Check.
 
-💼 Journeyed my way to Domintell? I'm there.
+💼 Currently thriving at Domintell, where I found my sweet spot by merging my love for coding with my penchant for people skills.
 
-At Domintell, I've found my sweet spot - fusing my love for coding and my penchant for people skills.
+🛠️ My tools of choice? TypeScript, JavaScript, React Native, ReactJS, NodeJS, Python, and more recently, Dart & Flutter.
 
-🛠️ My tools of choice? TypeScript, JavaScript, React Native, ReactJS, NodeJS, Python, and recently, Dart & Flutter.
+🎯 Together, we've turned ideas into reality - architecting robust software and mobile applications 📱, integrating advanced features, and exploring the exciting realm of home automation and embedded technologies.
 
-🎯 Together, we've turned ideas into reality - architecting robust software and mobile applications 📱, integrating advanced features, and venturing into the exciting realm of home automation and embedded technologies.
+📈 As for team management, I guide us through a customized Agile-like workflow. But I believe management goes beyond issuing directives. It's about understanding and supporting each unique member of our team 🌈. Recognizing everyone's strengths has been the key to our shared success 🏆.
 
-📈 As for managing the team, I steer us through a customized Agile-like workflow. But I know management isn't just about giving directives. It's about understanding and supporting each unique member of our team 🌈. Recognizing everyone's strengths has been our key to shared success 🏆.
+💡 Today, I'm more than just a tech lead with a knack for React/React Native and TypeScript. I strive to be the person who champions his team, ensuring that everyone feels valued.
 
-💡 Today, I'm more than just a tech lead with a knack for React/React Native and TypeScript. I like to be the guy who champions his team, making sure everyone feels valued.
+🤝 If you're intrigued by my journey or see the potential for us to create something amazing together, don't hesitate to reach out. Let's connect!
 
-🤝 If you're intrigued by my journey, or if you see potential for us to create something amazing together, don't hesitate to reach out. Let's connect!
-
-I am constantly seeking new challenges and opportunities to expand my skills and knowledge, and I am excited to see what the future holds in this dynamic and ever-changing field.
+I am always seeking new challenges and opportunities to expand my skills and knowledge, and I am excited to see what the future holds in this dynamic and ever-changing field.
 
 
 ---
