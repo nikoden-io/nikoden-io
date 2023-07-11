@@ -16,8 +16,6 @@
 
 📈 As for team management, I guide us through a customized Agile-like workflow. But I believe management goes beyond issuing directives. It's about understanding and supporting each unique member of our team 🌈. Recognizing everyone's strengths has been the key to our shared success 🏆.
 
-💡 Today, I'm more than just a tech lead with a knack for React/React Native and TypeScript. I strive to be the person who champions his team, ensuring that everyone feels valued.
-
 🤝 If you're intrigued by my journey or see the potential for us to create something amazing together, don't hesitate to reach out. Let's connect!
 
 I am always seeking new challenges and opportunities to expand my skills and knowledge, and I am excited to see what the future holds in this dynamic and ever-changing field.
