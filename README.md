@@ -4,22 +4,17 @@
 
 #### Hello,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-⏳ Over 7 years of experience as a Sales Director? Been there, done that.
+🚀 Transforming visions into technological realities 🌟 | 🛡️ Technical manager and analyst 
 
-🚀 Made a leap into the tech world in 2020? Check.
+With over 7 years' experience as a sales manager, I have successfully made the transition to the dynamic world of technology in 2020. Today, I find myself at the intersection of business acumen and technical expertise, ready to drive innovation and tackle complex challenges.
 
-💼 Currently thriving at Domintell, where I found my sweet spot by merging my love for coding with my penchant for people skills.
+🔬 As a software developer, I use a sharp analytical eye to build robust software solutions and turn ideas into high-impact realities. 
 
-🛠️ My tools of choice? TypeScript, JavaScript, React Native, ReactJS, NodeJS, Python, and more recently, Dart & Flutter.
+🏦 My unique combination of commercial experience and coding skills allows me to approach projects with a holistic vision and deliver solutions that make a real difference.
 
-🎯 Together, we've turned ideas into reality - architecting robust software and mobile applications 📱, integrating advanced features, and exploring the exciting realm of home automation and embedded technologies.
+🌐 I thrive on solving the challenges of the businesses I work with to develop solutions that precisely meet the needs of employees and customers. 💪
 
-📈 As for team management, I guide us through a customized Agile-like workflow. But I believe management goes beyond issuing directives. It's about understanding and supporting each unique member of our team 🌈. Recognizing everyone's strengths has been the key to our shared success 🏆.
-
-🤝 If you're intrigued by my journey or see the potential for us to create something amazing together, don't hesitate to reach out. Let's connect!
-
-I am always seeking new challenges and opportunities to expand my skills and knowledge, and I am excited to see what the future holds in this dynamic and ever-changing field.
-
+ #Analytics #TechInnovation #BusinessDevelopment
 
 ---
 
