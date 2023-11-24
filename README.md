@@ -19,7 +19,7 @@ Leveraging over 3 years of intensive experience in software development, I've tr
 | :white_check_mark: Team Player & Team Leader   | :sunrise_over_mountains: Travel   |
 | :white_check_mark: Agile workflow              | :book: Learning                   |
 | :white_check_mark: Analytical spirit           | :open_hands: Volunteering         |
-| :white_check_mark: Gamification supporter      | :joystick: Gaming.                |
+| :white_check_mark: Gamification supporter      | :pen: Drawing                     |
 
 ---
 
