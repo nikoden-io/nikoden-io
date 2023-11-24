@@ -1,6 +1,7 @@
 
-Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-🚀 Software Developer | 🛡️ Technical Architect and Analyst
+Hello I'm Nicolas, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+🛡️  Software Developer | Technical Architect and Analyst
 
 Leveraging over 3 years of intensive experience in software development, I've transitioned from a successful career in sales management to becoming a proficient and innovative software developer.
 
