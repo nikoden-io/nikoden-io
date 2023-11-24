@@ -1,5 +1,40 @@
 
 
+Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+🚀 Senior Full-Stack Developer | 🛡️ Technical Architect and Analyst
+
+Leveraging over 3 years of intensive experience in software development, I've transitioned from a successful career in sales management to becoming a proficient and innovative software developer. My journey through the tech industry began with a transformative bootcamp experience at BeCode Belgium in 2020, which paved the way for my current expertise.
+
+🔬 Expertise: Crafting resilient and scalable software architectures using modern technologies. My focus is on building efficient, high-impact solutions that align with business objectives and user needs.
+
+🏦 Unique Perspective: My background in sales management provides me with a unique understanding of the commercial aspects of technology, enabling me to approach software development with a broader, more integrated perspective.
+
+🌐 Impact: Committed to delivering solutions that enhance business processes, improve customer experiences, and drive technological innovation. I excel in translating complex problems into tangible solutions.
+
+Key Technologies: React, Next.js, Node.js, TypeScript, Flutter, and more.
+
+Tech Skills
+Frontend	Backend	Other Skills
+React, Next.js, HTML5, CSS3, SASS	Node.js, Express.js	Git, Agile Methodologies
+TypeScript, JavaScript	RESTful APIs, GraphQL	Docker, AWS
+Soft Skills
+ 
+Problem Solver
+Team Player & Leader
+Agile Workflow Enthusiast
+Organized & Structured Thinker
+Gamification Supporter
+Weekend Pursuits
+ 
+Photography
+Travel
+Continuous Learning
+Volunteering
+Gaming
+Connect with Me
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin.com/in/nicolas-denoel" width="40" height="40" />
+
+
 
 
 #### Hello,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
