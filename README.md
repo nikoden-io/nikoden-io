@@ -14,13 +14,13 @@ Hello I'm Nicolas, <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 
 ---
 
-|             💻 TECH SKILLS           |              ✨ SOFT SKILLS                    |         🌳 WEEK-END SKILLS        |
-|--------------------------------------|------------------------------------------------|-----------------------------------|
-| 💠 .Net / C#                         | :white_check_mark: Problem-solver              | :camera: Photography              |
-| :atom: NodeJS - ReactJS / TypeScript | :white_check_mark: Team Player & Team Leader   | :sunrise_over_mountains: Travel   |
-| 📱 React Native                      | :white_check_mark: Agile workflow              | :book: Learning                   |
-| 📱🖥️ Flutter / Dart                  | :white_check_mark: Analytical spirit           | :open_hands: Volunteering         |
-| ☁️ Cloud solutions                    | :white_check_mark: Gamification supporter      | :pen: Drawing                     |
+|             💻 TECH SKILLS            |              ✨ SOFT SKILLS                    |         🌳 WEEK-END SKILLS        |
+|---------------------------------------|------------------------------------------------|-----------------------------------|
+| 💠  .Net / C#                         | :white_check_mark: Problem-solver              | :camera: Photography              |
+| :atom:  NodeJS - ReactJS / TypeScript | :white_check_mark: Team Player & Team Leader   | :sunrise_over_mountains: Travel   |
+| 📱  React Native                      | :white_check_mark: Agile workflow              | :book: Learning                   |
+| 📱🖥️  Flutter / Dart                  | :white_check_mark: Analytical spirit           | :open_hands: Volunteering         |
+| ☁️  Cloud solutions                    | :white_check_mark: Gamification supporter      | :pen: Drawing                     |
 
 ---
 
