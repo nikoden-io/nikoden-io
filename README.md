@@ -3,7 +3,7 @@ Hello I'm Nicolas, <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 
 🛡️  Software Developer | Business Solution Developer
 
-🚀 Leveraging over 4 years of intensive experience in software development, I've transitioned from a successful career in sales management to becoming a proficient and innovative software developer.
+🚀 Leveraging over multiple years of intensive experience in software development, I've transitioned from a successful career in sales management to becoming a proficient and innovative software developer.
 
 🔬 Expertise: Crafting resilient and scalable software architectures using modern technologies. My focus is on building efficient, high-impact solutions that align with business objectives and user needs.
 
