@@ -14,7 +14,7 @@ Hello I'm Nicolas, <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 
 ---
 
-|             💻 TECH SKILLS            |              ✨ SOFT SKILLS                    |         🌳 WEEK-END SKILLS        |
+|  💻 TECH SKILLS                       | ✨ SOFT SKILLS                                 |  🌳 WEEK-END SKILLS        |
 |---------------------------------------|------------------------------------------------|-----------------------------------|
 | 💠  .Net / C#                         | :white_check_mark: Problem-solver              | :camera: Photography              |
 | :atom:  NodeJS - ReactJS / TypeScript | :white_check_mark: Team Player & Team Leader   | :sunrise_over_mountains: Travel   |
