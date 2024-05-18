@@ -27,5 +27,5 @@ Hello I'm Nicolas, <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 <a href="https://linkedin.com/in/nicolas-denoel">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin.com/in/nicolas-denoel" width="40" height="40" />
 </a> 
-[![Buy Me a Coffee](https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/nikoden)
+[Buy Me a Coffee](https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/nikoden)
 
