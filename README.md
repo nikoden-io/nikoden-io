@@ -25,11 +25,17 @@ Welcome to Nikoden GitHub, <img src="https://raw.githubusercontent.com/MartinHei
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://linkedin.com/in/nicolas-denoel" style="margin-right: 20px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
-  </a> 
-  <a href="https://www.patreon.com/nikoden" target="_blank">
-    <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=for-the-badge&logo=patreon" alt="Support me on Patreon" style="height: 30px !important; width: 210px !important;" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/nicolas-denoel">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <a href="https://www.patreon.com/nikoden" target="_blank">
+        <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=for-the-badge&logo=patreon" alt="Support me on Patreon" style="height: 30px !important; width: 210px !important;" />
+      </a>
+    </td>
+  </tr>
+</table>
