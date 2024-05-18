@@ -29,7 +29,7 @@ Welcome to Nikoden GitHub, <img src="https://raw.githubusercontent.com/MartinHei
   <a href="https://linkedin.com/in/nicolas-denoel">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a> 
-  <a href="https://www.patreon.com/nikoden" target="_blank">
+  <a href="https://www.patreon.com/nikoden" target="_blank" margin-left: 60px>
     <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=for-the-badge&logo=patreon" alt="Support me on Patreon" style="vertical-align: middle; margin-left: 60px; height: 30px !important; width: 210px !important;" />
   </a>
 </div>
