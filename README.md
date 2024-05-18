@@ -25,7 +25,7 @@ Welcome to Nikoden GitHub, <img src="https://raw.githubusercontent.com/MartinHei
 
 ---
 
-<table align="center">
+<table align="center" style="borderWidth: 0">
   <tr>
     <td>
       <a href="https://linkedin.com/in/nicolas-denoel">
