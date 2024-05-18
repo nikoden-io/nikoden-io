@@ -30,6 +30,6 @@ Welcome to Nikoden GitHub, <img src="https://raw.githubusercontent.com/MartinHei
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a> 
   <a href="https://www.patreon.com/nikoden" target="_blank">
-    <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=for-the-badge&logo=patreon" alt="Support me on Patreon" style="vertical-align: middle; margin-left: 10px; height: 40px !important; width: 200px !important;" />
+    <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=for-the-badge&logo=patreon" alt="Support me on Patreon" style="vertical-align: middle; margin-left: 10px; height: 40px !important; width: 250px !important;" />
   </a>
 </div>
