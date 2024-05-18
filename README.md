@@ -1,16 +1,17 @@
 
-Hello I'm Nicolas, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+Welcome to Nikoden GitHub, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
 🛡️  Software Developer | Business Solution Developer
 
 🚀 Leveraging over multiple years of intensive experience in software development, I've transitioned from a successful career in sales management to becoming a proficient and innovative software developer.
 
-🔬 Expertise: Crafting resilient and scalable software architectures using modern technologies. My focus is on building efficient, high-impact solutions that align with business objectives and user needs.
+🔬 **Expertise**: Crafting resilient and scalable software architectures using modern technologies. My focus is on building efficient, high-impact solutions that align with business objectives and user needs.
 
-🏦 Unique Perspective: My background in sales management provides me with a unique understanding of the commercial aspects of technology, enabling me to approach software development with a broader, more integrated perspective.
+🏦 **Unique Perspective**: My background in sales management provides me with a unique understanding of the commercial aspects of technology, enabling me to approach software development with a broader, more integrated perspective.
 
-🌐 Impact: Committed to delivering solutions that enhance business processes, improve customer experiences, and drive technological innovation. I excel in translating complex problems into tangible solutions.
- #Analytics #TechInnovation #BusinessDevelopment
+🌐 **Impact**: Committed to delivering solutions that enhance business processes, improve customer experiences, and drive technological innovation. I excel in translating complex problems into tangible solutions.
+
+#Analytics #TechInnovation #BusinessDevelopment
 
 ---
 
@@ -24,10 +25,11 @@ Hello I'm Nicolas, <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 
 ---
 
-<a href="https://linkedin.com/in/nicolas-denoel">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin.com/in/nicolas-denoel" width="40" height="40" />
-</a> 
-<a href="https://www.patreon.com/nikoden" target="_blank">
-  <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=for-the-badge&logo=patreon" alt="Support me on Patreon" style="height: 40px !important;width: 200px !important;" >
-</a>
-
+<div align="center">
+  <a href="https://linkedin.com/in/nicolas-denoel">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a> 
+  <a href="https://www.patreon.com/nikoden" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=for-the-badge&logo=patreon" alt="Support me on Patreon" style="vertical-align: middle; margin-left: 10px; height: 40px !important; width: 200px !important;" />
+  </a>
+</div>
