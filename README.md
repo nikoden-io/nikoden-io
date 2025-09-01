@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&color=2ECC71&duration=3000&lines=Hey,+I'm+Nikoden!;I+build+cool+stuff.;Let's+run+open+source!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&color=800080&duration=3000&lines=Hey,+I'm+Nikoden!;I+build+cool+stuff.;Let's have fun!" />
 </h1>
 
 <p align="center">
