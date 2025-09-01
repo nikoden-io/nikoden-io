@@ -14,26 +14,23 @@ Today, I focus on building **scalable, modern solutions** and sharing projects t
 
 I’m not here looking for jobs — I’m here to **create, collaborate and have fun building stuff together**.
 
----
+---    
 
-## 🔧 Tech I Play With
-| Domain      | Stack |
-|-------------|------------------------------|
-| Backend     | C# / .NET • Node.js |
-| Frontend    | React • TypeScript |
-| Mobile      | React Native • Flutter |
-| Cloud & Dev | Docker • Cloud Solutions |
+## 🔧 How I Build
+I care more about principles than tools:  
+- Code should be **clear and resilient**  
+- Architectures should be **modular and adaptable**  
+- Software should **solve real problems**, not just look fancy  
+- Learning never stops — I’ll pick up whatever stack is needed
 
----
+---   
 
 ## 🎯 What to Expect Here
-- High-quality projects with a focus on **clean architecture** and **scalability**  
-- Tools and libraries that solve real-world problems  
-- Open source repos where **collaboration is more than welcome**  
+This space is just getting started.  
+I’ll be sharing projects I’m passionate about, documenting the process, and learning in public.  
+If you’re curious, feel free to follow along or jump in — collaboration is always welcome.  
 
-⚡ Spoiler: my upcoming repos will **pack some serious punch**. Stay tuned.  
-
----
+---   
 
 ## 🌱 Outside the Code
 - 📸 Photography  
@@ -41,11 +38,14 @@ I’m not here looking for jobs — I’m here to **create, collaborate and have
 - 🎮 Gamification & Learning  
 - ✍️ Drawing & Volunteering  
 
----
+---   
 
 ## 📡 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/nicolas-denoel">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+  <a href="https://twitter.com/Its_Nikoden">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30" />
+  </a>
+  <a href="https://www.instagram.com/its_nikoden/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30" />
   </a>
 </p>
