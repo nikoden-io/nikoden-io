@@ -41,7 +41,7 @@ If you’re curious, feel free to follow along or jump in — collaboration is a
 ---   
 
 ## 📡 Connect
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/Its_Nikoden" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="30" height="30" style="margin-right:20px;" />
   </a>
