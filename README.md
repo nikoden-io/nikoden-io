@@ -42,10 +42,10 @@ If you’re curious, feel free to follow along or jump in — collaboration is a
 
 ## 📡 Connect
 <p align="center">
-  <a href="https://twitter.com/Its_Nikoden">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30" />
+  <a href="https://twitter.com/Its_Nikoden" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="30" height="30" style="margin-right:20px;" />
   </a>
-  <a href="https://www.instagram.com/its_nikoden/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30" />
+  <a href="https://www.instagram.com/its_nikoden/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30" height="30" />
   </a>
 </p>
